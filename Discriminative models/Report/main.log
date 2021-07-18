@@ -1,0 +1,1725 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.7)  18 JUL 2021 22:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen135
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count176
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count177
+\leftroot@=\count178
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count179
+\DOTSCASE@=\count180
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count181
+\c@MaxMatrixCols=\count182
+\dotsspace@=\muskip16
+\c@parentequation=\count183
+\dspbrk@lvl=\count184
+\tag@help=\toks18
+\row@=\count185
+\column@=\count186
+\maxfields@=\count187
+\andhelp@=\toks19
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks27
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks29
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (d:/Softwares/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen144
+\Hy@linkcounter=\count188
+\Hy@pagecounter=\count189
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count190
+Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count191
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen145
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count192
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring ON on input line 6365.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count193
+\c@Item=\count194
+\c@Hfootnote=\count195
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count196
+\c@bookmark@seq@number=\count197
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.s
+ty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.s
+ty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip56
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.
+tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-
+lists.tex))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.d
+ef
+\pgfutil@abb=\box47
+ (d:/Softwares/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.t
+ex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.te
+x
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count198
+\c@pgf@countb=\count199
+\c@pgf@countc=\count266
+\c@pgf@countd=\count267
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count268
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex
+.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common
+-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpat
+h.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count269
+\pgfsyssoftpath@bigbuffer@items=\count270
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotoco
+l.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (d:/Softwares/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.t
+ex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.t
+ex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count271
+\pgfmath@box=\box48
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.cod
+e.tex
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.bas
+ic.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.tri
+gonometric.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.ran
+dom.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.com
+parison.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.bas
+e.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rou
+nd.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.mis
+c.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.int
+egerarithmetics.code.tex)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.te
+x
+\c@pgfmathroundto@lastzeros=\count272
+)) (d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.
+code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathcon
+struct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusa
+ge.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.
+code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count273
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphic
+state.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen181
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransfo
+rmations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.c
+ode.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects
+.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathpro
+cessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.
+code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen185
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.c
+ode.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count274
+\pgf@shadingcount=\count275
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.c
+ode.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexterna
+l.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box52
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.
+code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspa
+rency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepattern
+s.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.cod
+e.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.c
+ode.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box53
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.cod
+e.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-versi
+on-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-versi
+on-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.te
+x)) (d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.c
+ode.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryploth
+andlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count276
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikz@lastmovetox=\dimen196
+\tikz@lastmovetoy=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count277
+\tikznumberofchildren=\count278
+\tikznumberofcurrentchild=\count279
+\tikz@fig@count=\count280
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.c
+ode.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count281
+\pgfmatrixcurrentcolumn=\count282
+\pgf@matrix@numberofcolumns=\count283
+)
+\tikz@expandcount=\count284
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librar
+ies/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count285
+\mult@box=\box58
+\multicol@leftmargin=\dimen256
+\c@unbalance=\count286
+\c@collectmore=\count287
+\doublecol@number=\count288
+\multicoltolerance=\count289
+\multicolpretolerance=\count290
+\full@width=\dimen257
+\page@free=\dimen258
+\premulticols=\dimen259
+\postmulticols=\dimen260
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box59
+\last@line=\box60
+\maxbalancingoverflow=\dimen261
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@gfirstbox=\box63
+\mult@firstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count291
+\c@columnbadness=\count292
+\c@finalcolumnbadness=\count293
+\last@try=\dimen262
+\multicolovershoot=\dimen263
+\multicolundershoot=\dimen264
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count294
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
+\captionmargin=\dimen265
+\captionmargin@=\dimen266
+\captionwidth=\dimen267
+\caption@tempdima=\dimen268
+\caption@indent=\dimen269
+\caption@parindent=\dimen270
+\caption@hangindent=\dimen271
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+Package caption Info: hyperref package is loaded.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
+\c@subfigure=\count297
+\c@subtable=\count298
+)
+\c@theorem=\count299
+\c@lemma=\count300
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count301
+\l__pdf_internal_box=\box104
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+\AtBeginShipoutBox=\box105
+Package hyperref Info: Link coloring ON on input line 28.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring
+.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count302
+)
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
+ (./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+ ABD: EveryShipout initializing macros
+(d:/Softwares/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen272
+\scratchbox=\box106
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen273
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks43
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{d:/Softwares/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ (./main.lof [2])
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+<dataset1a_perceptron_01_cm_train.jpg, id=209, 242.1045pt x 198.14024pt>
+File: dataset1a_perceptron_01_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_01_cm_train.jpg>
+Package pdftex.def Info: dataset1a_perceptron_01_cm_train.jpg  used on input li
+ne 71.
+(pdftex.def)             Requested size: 108.94601pt x 89.16228pt.
+<dataset1a_perceptron_01_cm_test.jpg, id=210, 240.9pt x 193.9245pt>
+File: dataset1a_perceptron_01_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_01_cm_test.jpg>
+Package pdftex.def Info: dataset1a_perceptron_01_cm_test.jpg  used on input lin
+e 77.
+(pdftex.def)             Requested size: 108.40399pt x 87.26521pt.
+<dataset1a_perceptron_02_cm_train.jpg, id=211, 240.29774pt x 197.538pt>
+File: dataset1a_perceptron_02_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_02_cm_train.jpg>
+Package pdftex.def Info: dataset1a_perceptron_02_cm_train.jpg  used on input li
+ne 89.
+(pdftex.def)             Requested size: 108.13298pt x 88.89127pt.
+<dataset1a_perceptron_02_cm_test.jpg, id=212, 239.6955pt x 197.538pt>
+File: dataset1a_perceptron_02_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_02_cm_test.jpg>
+Package pdftex.def Info: dataset1a_perceptron_02_cm_test.jpg  used on input lin
+e 95.
+(pdftex.def)             Requested size: 107.86197pt x 88.89127pt.
+<dataset1a_perceptron_03_cm_train.jpg, id=213, 242.70676pt x 196.93575pt>
+File: dataset1a_perceptron_03_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_03_cm_train.jpg>
+Package pdftex.def Info: dataset1a_perceptron_03_cm_train.jpg  used on input li
+ne 107.
+(pdftex.def)             Requested size: 97.08096pt x 78.77289pt.
+<dataset1a_perceptron_03_cm_test.jpg, id=214, 241.50224pt x 198.14024pt>
+File: dataset1a_perceptron_03_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_03_cm_test.jpg>
+Package pdftex.def Info: dataset1a_perceptron_03_cm_test.jpg  used on input lin
+e 113.
+(pdftex.def)             Requested size: 96.59917pt x 79.25468pt.
+<dataset1a_perceptron_12_cm_train.jpg, id=215, 240.29774pt x 198.7425pt>
+File: dataset1a_perceptron_12_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_12_cm_train.jpg>
+Package pdftex.def Info: dataset1a_perceptron_12_cm_train.jpg  used on input li
+ne 125.
+(pdftex.def)             Requested size: 96.11739pt x 79.49557pt.
+<dataset1a_perceptron_12_cm_test.jpg, id=216, 241.50224pt x 193.32225pt>
+File: dataset1a_perceptron_12_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_12_cm_test.jpg>
+Package pdftex.def Info: dataset1a_perceptron_12_cm_test.jpg  used on input lin
+e 131.
+(pdftex.def)             Requested size: 96.59917pt x 77.32753pt.
+<dataset1a_perceptron_13_cm_train.jpg, id=217, 241.50224pt x 198.14024pt>
+File: dataset1a_perceptron_13_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_13_cm_train.jpg>
+Package pdftex.def Info: dataset1a_perceptron_13_cm_train.jpg  used on input li
+ne 143.
+(pdftex.def)             Requested size: 96.59917pt x 79.25468pt.
+<dataset1a_perceptron_13_cm_test.jpg, id=218, 239.6955pt x 194.52675pt>
+File: dataset1a_perceptron_13_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_13_cm_test.jpg>
+Package pdftex.def Info: dataset1a_perceptron_13_cm_test.jpg  used on input lin
+e 149.
+(pdftex.def)             Requested size: 95.8765pt x 77.80931pt.
+<dataset1a_perceptron_23_cm_train.jpg, id=219, 242.1045pt x 196.93575pt>
+File: dataset1a_perceptron_23_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_23_cm_train.jpg>
+Package pdftex.def Info: dataset1a_perceptron_23_cm_train.jpg  used on input li
+ne 161.
+(pdftex.def)             Requested size: 96.84007pt x 78.77289pt.
+<dataset1a_perceptron_23_cm_test.jpg, id=220, 239.6955pt x 193.9245pt>
+File: dataset1a_perceptron_23_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_23_cm_test.jpg>
+Package pdftex.def Info: dataset1a_perceptron_23_cm_test.jpg  used on input lin
+e 167.
+(pdftex.def)             Requested size: 95.8765pt x 77.56842pt.
+[4 <./dataset1a_perceptron_01_cm_train.JPG> <./dataset1a_perceptron_01_cm_test.
+JPG> <./dataset1a_perceptron_02_cm_train.JPG> <./dataset1a_perceptron_02_cm_tes
+t.JPG>] [5 <./dataset1a_perceptron_03_cm_train.JPG> <./dataset1a_perceptron_03_
+cm_test.JPG> <./dataset1a_perceptron_12_cm_train.JPG> <./dataset1a_perceptron_1
+2_cm_test.JPG> <./dataset1a_perceptron_13_cm_train.JPG> <./dataset1a_perceptron
+_13_cm_test.JPG> <./dataset1a_perceptron_23_cm_train.JPG> <./dataset1a_perceptr
+on_23_cm_test.JPG>]
+<dataset1a_perceptron_01_ds.jpg, id=231, 566.115pt x 386.6445pt>
+File: dataset1a_perceptron_01_ds.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_01_ds.jpg>
+Package pdftex.def Info: dataset1a_perceptron_01_ds.jpg  used on input line 180
+.
+(pdftex.def)             Requested size: 169.8358pt x 115.99423pt.
+<dataset1a_perceptron_02_ds.jpg, id=232, 566.115pt x 383.63326pt>
+File: dataset1a_perceptron_02_ds.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_02_ds.jpg>
+Package pdftex.def Info: dataset1a_perceptron_02_ds.jpg  used on input line 186
+.
+(pdftex.def)             Requested size: 169.8358pt x 115.09085pt.
+<dataset1a_perceptron_03_ds.jpg, id=233, 567.92175pt x 385.44pt>
+File: dataset1a_perceptron_03_ds.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_03_ds.jpg>
+Package pdftex.def Info: dataset1a_perceptron_03_ds.jpg  used on input line 192
+.
+(pdftex.def)             Requested size: 170.37784pt x 115.63289pt.
+<dataset1a_perceptron_12_ds.jpg, id=234, 558.888pt x 388.45125pt>
+File: dataset1a_perceptron_12_ds.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_12_ds.jpg>
+Package pdftex.def Info: dataset1a_perceptron_12_ds.jpg  used on input line 198
+.
+(pdftex.def)             Requested size: 167.66768pt x 116.53627pt.
+<dataset1a_perceptron_13_ds.jpg, id=235, 556.479pt x 379.4175pt>
+File: dataset1a_perceptron_13_ds.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_13_ds.jpg>
+Package pdftex.def Info: dataset1a_perceptron_13_ds.jpg  used on input line 204
+.
+(pdftex.def)             Requested size: 166.94498pt x 113.82613pt.
+<dataset1a_perceptron_23_ds.jpg, id=236, 556.479pt x 381.8265pt>
+File: dataset1a_perceptron_23_ds.jpg Graphic file (type jpg)
+<use dataset1a_perceptron_23_ds.jpg>
+Package pdftex.def Info: dataset1a_perceptron_23_ds.jpg  used on input line 210
+.
+(pdftex.def)             Requested size: 166.94498pt x 114.54883pt.
+ [6 <./dataset1a_perceptron_01_ds.JPG> <./dataset1a_perceptron_02_ds.JPG> <./da
+taset1a_perceptron_03_ds.JPG> <./dataset1a_perceptron_12_ds.JPG> <./dataset1a_p
+erceptron_13_ds.JPG> <./dataset1a_perceptron_23_ds.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+<dataset1a_mlffnn_cm_train.jpg, id=241, 331.2375pt x 237.2865pt>
+File: dataset1a_mlffnn_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_mlffnn_cm_train.jpg>
+Package pdftex.def Info: dataset1a_mlffnn_cm_train.jpg  used on input line 250.
+
+(pdftex.def)             Requested size: 165.61833pt x 118.64294pt.
+<dataset1a_mlffnn_cm_test.jpg, id=242, 325.215pt x 241.50224pt>
+File: dataset1a_mlffnn_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_mlffnn_cm_test.jpg>
+Package pdftex.def Info: dataset1a_mlffnn_cm_test.jpg  used on input line 256.
+(pdftex.def)             Requested size: 162.6071pt x 120.75081pt.
+<dataset1a_mlffnn_ds.jpg, id=243, 558.28575pt x 386.6445pt>
+File: dataset1a_mlffnn_ds.jpg Graphic file (type jpg)
+<use dataset1a_mlffnn_ds.jpg>
+Package pdftex.def Info: dataset1a_mlffnn_ds.jpg  used on input line 266.
+(pdftex.def)             Requested size: 167.48701pt x 115.99423pt.
+[7 <./dataset1a_mlffnn_cm_train.JPG> <./dataset1a_mlffnn_cm_test.JPG> <./datase
+t1a_mlffnn_ds.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+<dataset1a_linear_svm_01_cm_train.jpg, id=249, 239.6955pt x 195.73125pt>
+File: dataset1a_linear_svm_01_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_01_cm_train.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_01_cm_train.jpg  used on input li
+ne 305.
+(pdftex.def)             Requested size: 107.86197pt x 88.07823pt.
+<dataset1a_linear_svm_01_cm_test.jpg, id=250, 239.6955pt x 195.73125pt>
+File: dataset1a_linear_svm_01_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_01_cm_test.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_01_cm_test.jpg  used on input lin
+e 311.
+(pdftex.def)             Requested size: 107.86197pt x 88.07823pt.
+<dataset1a_linear_svm_02_cm_train.jpg, id=251, 242.70676pt x 198.14024pt>
+File: dataset1a_linear_svm_02_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_02_cm_train.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_02_cm_train.jpg  used on input li
+ne 323.
+(pdftex.def)             Requested size: 97.08096pt x 79.25468pt.
+<dataset1a_linear_svm_02_cm_test.jpg, id=252, 239.6955pt x 198.14024pt>
+File: dataset1a_linear_svm_02_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_02_cm_test.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_02_cm_test.jpg  used on input lin
+e 329.
+(pdftex.def)             Requested size: 95.8765pt x 79.25468pt.
+[8 <./dataset1a_linear_svm_01_cm_train.JPG> <./dataset1a_linear_svm_01_cm_test.
+JPG> <./dataset1a_linear_svm_02_cm_train.JPG> <./dataset1a_linear_svm_02_cm_tes
+t.JPG>]
+<dataset1a_linear_svm_03_cm_train.jpg, id=257, 242.1045pt x 199.947pt>
+File: dataset1a_linear_svm_03_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_03_cm_train.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_03_cm_train.jpg  used on input li
+ne 343.
+(pdftex.def)             Requested size: 84.73784pt x 69.98248pt.
+<dataset1a_linear_svm_03_cm_test.jpg, id=258, 242.70676pt x 197.538pt>
+File: dataset1a_linear_svm_03_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_03_cm_test.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_03_cm_test.jpg  used on input lin
+e 349.
+(pdftex.def)             Requested size: 84.94862pt x 69.13933pt.
+<dataset1a_linear_svm_12_cm_train.jpg, id=259, 239.6955pt x 196.93575pt>
+File: dataset1a_linear_svm_12_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_12_cm_train.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_12_cm_train.jpg  used on input li
+ne 361.
+(pdftex.def)             Requested size: 83.89467pt x 68.92853pt.
+<dataset1a_linear_svm_12_cm_test.jpg, id=260, 240.9pt x 196.93575pt>
+File: dataset1a_linear_svm_12_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_12_cm_test.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_12_cm_test.jpg  used on input lin
+e 367.
+(pdftex.def)             Requested size: 84.31625pt x 68.92853pt.
+<dataset1a_linear_svm_13_cm_train.jpg, id=261, 242.70676pt x 197.538pt>
+File: dataset1a_linear_svm_13_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_13_cm_train.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_13_cm_train.jpg  used on input li
+ne 379.
+(pdftex.def)             Requested size: 84.94862pt x 69.13933pt.
+<dataset1a_linear_svm_13_cm_test.jpg, id=262, 240.29774pt x 195.129pt>
+File: dataset1a_linear_svm_13_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_13_cm_test.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_13_cm_test.jpg  used on input lin
+e 385.
+(pdftex.def)             Requested size: 84.10547pt x 68.29616pt.
+<dataset1a_linear_svm_23_cm_train.jpg, id=263, 239.6955pt x 197.538pt>
+File: dataset1a_linear_svm_23_cm_train.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_23_cm_train.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_23_cm_train.jpg  used on input li
+ne 397.
+(pdftex.def)             Requested size: 83.89467pt x 69.13933pt.
+<dataset1a_linear_svm_23_cm_test.jpg, id=264, 240.9pt x 198.14024pt>
+File: dataset1a_linear_svm_23_cm_test.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_23_cm_test.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_23_cm_test.jpg  used on input lin
+e 403.
+(pdftex.def)             Requested size: 84.31625pt x 69.35011pt.
+ [9 <./dataset1a_linear_svm_03_cm_train.JPG> <./dataset1a_linear_svm_03_cm_test
+.JPG> <./dataset1a_linear_svm_12_cm_train.JPG> <./dataset1a_linear_svm_12_cm_te
+st.JPG> <./dataset1a_linear_svm_13_cm_train.JPG> <./dataset1a_linear_svm_13_cm_
+test.JPG> <./dataset1a_linear_svm_23_cm_train.JPG> <./dataset1a_linear_svm_23_c
+m_test.JPG>]
+<dataset1a_linear_svm_01_ds.jpg, id=269, 289.08pt x 186.09525pt>
+File: dataset1a_linear_svm_01_ds.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_01_ds.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_01_ds.jpg  used on input line 417
+.
+(pdftex.def)             Requested size: 173.44933pt x 111.65799pt.
+<dataset1a_linear_svm_02_ds.jpg, id=270, 289.08pt x 184.89075pt>
+File: dataset1a_linear_svm_02_ds.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_02_ds.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_02_ds.jpg  used on input line 423
+.
+(pdftex.def)             Requested size: 173.44933pt x 110.93529pt.
+<dataset1a_linear_svm_03_ds.jpg, id=271, 289.68225pt x 182.48175pt>
+File: dataset1a_linear_svm_03_ds.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_03_ds.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_03_ds.jpg  used on input line 429
+.
+(pdftex.def)             Requested size: 173.81068pt x 109.48988pt.
+<dataset1a_linear_svm_12_ds.jpg, id=272, 287.8755pt x 182.48175pt>
+File: dataset1a_linear_svm_12_ds.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_12_ds.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_12_ds.jpg  used on input line 435
+.
+(pdftex.def)             Requested size: 172.72662pt x 109.48988pt.
+<dataset1a_linear_svm_13_ds.jpg, id=273, 288.47775pt x 182.48175pt>
+File: dataset1a_linear_svm_13_ds.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_13_ds.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_13_ds.jpg  used on input line 441
+.
+(pdftex.def)             Requested size: 173.08797pt x 109.48988pt.
+<dataset1a_linear_svm_23_ds.jpg, id=274, 288.47775pt x 181.27725pt>
+File: dataset1a_linear_svm_23_ds.jpg Graphic file (type jpg)
+<use dataset1a_linear_svm_23_ds.jpg>
+Package pdftex.def Info: dataset1a_linear_svm_23_ds.jpg  used on input line 447
+.
+(pdftex.def)             Requested size: 173.08797pt x 108.76718pt.
+ [10 <./dataset1a_linear_svm_01_ds.JPG> <./dataset1a_linear_svm_02_ds.JPG> <./d
+ataset1a_linear_svm_03_ds.JPG> <./dataset1a_linear_svm_12_ds.JPG> <./dataset1a_
+linear_svm_13_ds.JPG> <./dataset1a_linear_svm_23_ds.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+
+Overfull \hbox (33.53601pt too wide) in paragraph at lines 467--480
+ [] 
+ []
+
+<dataset1b_mlffnn_cm_train.jpg, id=279, 337.26pt x 233.673pt>
+File: dataset1b_mlffnn_cm_train.jpg Graphic file (type jpg)
+<use dataset1b_mlffnn_cm_train.jpg>
+Package pdftex.def Info: dataset1b_mlffnn_cm_train.jpg  used on input line 490.
+
+(pdftex.def)             Requested size: 151.7656pt x 105.15187pt.
+<dataset1b_mlffnn_cm_test.jpg, id=280, 324.0105pt x 243.309pt>
+File: dataset1b_mlffnn_cm_test.jpg Graphic file (type jpg)
+<use dataset1b_mlffnn_cm_test.jpg>
+Package pdftex.def Info: dataset1b_mlffnn_cm_test.jpg  used on input line 496.
+(pdftex.def)             Requested size: 145.80338pt x 109.48804pt.
+<dataset1b_mlffnn_ds.jpg, id=281, 543.83176pt x 379.4175pt>
+File: dataset1b_mlffnn_ds.jpg Graphic file (type jpg)
+<use dataset1b_mlffnn_ds.jpg>
+Package pdftex.def Info: dataset1b_mlffnn_ds.jpg  used on input line 506.
+(pdftex.def)             Requested size: 135.9576pt x 94.85414pt.
+[11 <./dataset1b_mlffnn_cm_train.JPG> <./dataset1b_mlffnn_cm_test.JPG> <./datas
+et1b_mlffnn_ds.JPG>]
+<output_n1_e1.jpg, id=286, 555.2745pt x 408.92775pt>
+File: output_n1_e1.jpg Graphic file (type jpg)
+<use output_n1_e1.jpg>
+Package pdftex.def Info: output_n1_e1.jpg  used on input line 518.
+(pdftex.def)             Requested size: 77.7379pt x 57.24948pt.
+<output_n1_e5.jpg, id=287, 564.30824pt x 398.6895pt>
+File: output_n1_e5.jpg Graphic file (type jpg)
+<use output_n1_e5.jpg>
+Package pdftex.def Info: output_n1_e5.jpg  used on input line 524.
+(pdftex.def)             Requested size: 79.00261pt x 55.81615pt.
+<output_n1_e20.jpg, id=288, 553.46774pt x 398.08725pt>
+File: output_n1_e20.jpg Graphic file (type jpg)
+<use output_n1_e20.jpg>
+Package pdftex.def Info: output_n1_e20.jpg  used on input line 530.
+(pdftex.def)             Requested size: 77.48495pt x 55.73183pt.
+<output_n1_e100.jpg, id=289, 549.85425pt x 406.51875pt>
+File: output_n1_e100.jpg Graphic file (type jpg)
+<use output_n1_e100.jpg>
+Package pdftex.def Info: output_n1_e100.jpg  used on input line 536.
+(pdftex.def)             Requested size: 76.97906pt x 56.91223pt.
+<output_n1_c.jpg, id=290, 536.60475pt x 400.49625pt>
+File: output_n1_c.jpg Graphic file (type jpg)
+<use output_n1_c.jpg>
+Package pdftex.def Info: output_n1_c.jpg  used on input line 542.
+(pdftex.def)             Requested size: 75.12415pt x 56.06909pt.
+<output_n2_e1.jpg, id=291, 557.6835pt x 411.33675pt>
+File: output_n2_e1.jpg Graphic file (type jpg)
+<use output_n2_e1.jpg>
+Package pdftex.def Info: output_n2_e1.jpg  used on input line 548.
+(pdftex.def)             Requested size: 78.07515pt x 57.58675pt.
+<output_n2_e5.jpg, id=292, 562.5015pt x 402.303pt>
+File: output_n2_e5.jpg Graphic file (type jpg)
+<use output_n2_e5.jpg>
+Package pdftex.def Info: output_n2_e5.jpg  used on input line 554.
+(pdftex.def)             Requested size: 78.74966pt x 56.32202pt.
+<output_n2_e20.jpg, id=293, 558.888pt x 405.31425pt>
+File: output_n2_e20.jpg Graphic file (type jpg)
+<use output_n2_e20.jpg>
+Package pdftex.def Info: output_n2_e20.jpg  used on input line 560.
+(pdftex.def)             Requested size: 78.24377pt x 56.7436pt.
+<output_n2_e100.jpg, id=294, 551.05875pt x 417.35925pt>
+File: output_n2_e100.jpg Graphic file (type jpg)
+<use output_n2_e100.jpg>
+Package pdftex.def Info: output_n2_e100.jpg  used on input line 566.
+(pdftex.def)             Requested size: 77.14769pt x 58.42989pt.
+<output_n2_c.jpg, id=295, 548.0475pt x 408.3255pt>
+File: output_n2_c.jpg Graphic file (type jpg)
+<use output_n2_c.jpg>
+Package pdftex.def Info: output_n2_c.jpg  used on input line 572.
+(pdftex.def)             Requested size: 76.72612pt x 57.16518pt.
+<output_n3_e1.jpg, id=296, 549.85425pt x 414.348pt>
+File: output_n3_e1.jpg Graphic file (type jpg)
+<use output_n3_e1.jpg>
+Package pdftex.def Info: output_n3_e1.jpg  used on input line 578.
+(pdftex.def)             Requested size: 76.97906pt x 58.00832pt.
+<output_n3_e5.jpg, id=297, 551.661pt x 401.70074pt>
+File: output_n3_e5.jpg Graphic file (type jpg)
+<use output_n3_e5.jpg>
+Package pdftex.def Info: output_n3_e5.jpg  used on input line 584.
+(pdftex.def)             Requested size: 77.23201pt x 56.23772pt.
+<output_n3_e20.jpg, id=298, 547.44525pt x 407.121pt>
+File: output_n3_e20.jpg Graphic file (type jpg)
+<use output_n3_e20.jpg>
+Package pdftex.def Info: output_n3_e20.jpg  used on input line 590.
+(pdftex.def)             Requested size: 76.6418pt x 56.99655pt.
+<output_n3_e100.jpg, id=299, 560.0925pt x 406.51875pt>
+File: output_n3_e100.jpg Graphic file (type jpg)
+<use output_n3_e100.jpg>
+Package pdftex.def Info: output_n3_e100.jpg  used on input line 596.
+(pdftex.def)             Requested size: 78.41241pt x 56.91223pt.
+<output_n3_c.jpg, id=300, 536.0025pt x 414.348pt>
+File: output_n3_c.jpg Graphic file (type jpg)
+<use output_n3_c.jpg>
+Package pdftex.def Info: output_n3_c.jpg  used on input line 602.
+(pdftex.def)             Requested size: 75.03983pt x 58.00832pt.
+ [12 <./output_n1_e1.JPG> <./output_n1_e5.JPG> <./output_n1_e20.JPG> <./output_
+n1_e100.JPG> <./output_n1_c.JPG> <./output_n2_e1.JPG> <./output_n2_e5.JPG> <./o
+utput_n2_e20.JPG> <./output_n2_e100.JPG> <./output_n2_c.JPG> <./output_n3_e1.JP
+G> <./output_n3_e5.JPG> <./output_n3_e20.JPG> <./output_n3_e100.JPG> <./output_
+n3_c.JPG>]
+<hidden1_n1_e1.jpg, id=305, 545.6385pt x 354.72525pt>
+File: hidden1_n1_e1.jpg Graphic file (type jpg)
+<use hidden1_n1_e1.jpg>
+Package pdftex.def Info: hidden1_n1_e1.jpg  used on input line 616.
+(pdftex.def)             Requested size: 76.38885pt x 49.6612pt.
+<hidden1_n1_e5.jpg, id=306, 536.60475pt x 398.6895pt>
+File: hidden1_n1_e5.jpg Graphic file (type jpg)
+<use hidden1_n1_e5.jpg>
+Package pdftex.def Info: hidden1_n1_e5.jpg  used on input line 622.
+(pdftex.def)             Requested size: 75.12415pt x 55.81615pt.
+<hidden1_n1_e20.jpg, id=307, 539.616pt x 408.3255pt>
+File: hidden1_n1_e20.jpg Graphic file (type jpg)
+<use hidden1_n1_e20.jpg>
+Package pdftex.def Info: hidden1_n1_e20.jpg  used on input line 628.
+(pdftex.def)             Requested size: 75.54572pt x 57.16518pt.
+<hidden1_n1_e100.jpg, id=308, 545.6385pt x 399.894pt>
+File: hidden1_n1_e100.jpg Graphic file (type jpg)
+<use hidden1_n1_e100.jpg>
+Package pdftex.def Info: hidden1_n1_e100.jpg  used on input line 634.
+(pdftex.def)             Requested size: 76.38885pt x 55.98477pt.
+<hidden1_n1_c.jpg, id=309, 555.87675pt x 425.79076pt>
+File: hidden1_n1_c.jpg Graphic file (type jpg)
+<use hidden1_n1_c.jpg>
+Package pdftex.def Info: hidden1_n1_c.jpg  used on input line 640.
+(pdftex.def)             Requested size: 77.8222pt x 59.61029pt.
+<hidden1_n2_e1.jpg, id=310, 560.69475pt x 402.90524pt>
+File: hidden1_n2_e1.jpg Graphic file (type jpg)
+<use hidden1_n2_e1.jpg>
+Package pdftex.def Info: hidden1_n2_e1.jpg  used on input line 646.
+(pdftex.def)             Requested size: 78.49672pt x 56.40634pt.
+<hidden1_n2_e5.jpg, id=311, 549.252pt x 411.33675pt>
+File: hidden1_n2_e5.jpg Graphic file (type jpg)
+<use hidden1_n2_e5.jpg>
+Package pdftex.def Info: hidden1_n2_e5.jpg  used on input line 652.
+(pdftex.def)             Requested size: 76.89474pt x 57.58675pt.
+<hidden1_n2_e20.jpg, id=312, 548.0475pt x 416.15475pt>
+File: hidden1_n2_e20.jpg Graphic file (type jpg)
+<use hidden1_n2_e20.jpg>
+Package pdftex.def Info: hidden1_n2_e20.jpg  used on input line 658.
+(pdftex.def)             Requested size: 76.72612pt x 58.26126pt.
+<hidden1_n2_e100.jpg, id=313, 538.4115pt x 409.53pt>
+File: hidden1_n2_e100.jpg Graphic file (type jpg)
+<use hidden1_n2_e100.jpg>
+Package pdftex.def Info: hidden1_n2_e100.jpg  used on input line 664.
+(pdftex.def)             Requested size: 75.37709pt x 57.3338pt.
+<hidden1_n2_c.jpg, id=314, 549.252pt x 417.9615pt>
+File: hidden1_n2_c.jpg Graphic file (type jpg)
+<use hidden1_n2_c.jpg>
+Package pdftex.def Info: hidden1_n2_c.jpg  used on input line 670.
+(pdftex.def)             Requested size: 76.89474pt x 58.5142pt.
+<hidden1_n3_e1.jpg, id=315, 552.26324pt x 414.95026pt>
+File: hidden1_n3_e1.jpg Graphic file (type jpg)
+<use hidden1_n3_e1.jpg>
+Package pdftex.def Info: hidden1_n3_e1.jpg  used on input line 676.
+(pdftex.def)             Requested size: 77.31631pt x 58.09264pt.
+<hidden1_n3_e5.jpg, id=316, 538.4115pt x 404.712pt>
+File: hidden1_n3_e5.jpg Graphic file (type jpg)
+<use hidden1_n3_e5.jpg>
+Package pdftex.def Info: hidden1_n3_e5.jpg  used on input line 682.
+(pdftex.def)             Requested size: 75.37709pt x 56.65929pt.
+<hidden1_n3_e20.jpg, id=317, 557.08125pt x 421.575pt>
+File: hidden1_n3_e20.jpg Graphic file (type jpg)
+<use hidden1_n3_e20.jpg>
+Package pdftex.def Info: hidden1_n3_e20.jpg  used on input line 688.
+(pdftex.def)             Requested size: 77.99084pt x 59.0201pt.
+<hidden1_n3_e100.jpg, id=318, 552.26324pt x 414.95026pt>
+File: hidden1_n3_e100.jpg Graphic file (type jpg)
+<use hidden1_n3_e100.jpg>
+Package pdftex.def Info: hidden1_n3_e100.jpg  used on input line 694.
+(pdftex.def)             Requested size: 77.31631pt x 58.09264pt.
+<hidden1_n3_c.jpg, id=319, 542.025pt x 417.9615pt>
+File: hidden1_n3_c.jpg Graphic file (type jpg)
+<use hidden1_n3_c.jpg>
+Package pdftex.def Info: hidden1_n3_c.jpg  used on input line 700.
+(pdftex.def)             Requested size: 75.88298pt x 58.5142pt.
+<hidden1_n4_e1.jpg, id=320, 551.05875pt x 403.5075pt>
+File: hidden1_n4_e1.jpg Graphic file (type jpg)
+<use hidden1_n4_e1.jpg>
+Package pdftex.def Info: hidden1_n4_e1.jpg  used on input line 706.
+(pdftex.def)             Requested size: 77.14769pt x 56.49066pt.
+<hidden1_n4_e5.jpg, id=321, 549.252pt x 400.49625pt>
+File: hidden1_n4_e5.jpg Graphic file (type jpg)
+<use hidden1_n4_e5.jpg>
+Package pdftex.def Info: hidden1_n4_e5.jpg  used on input line 712.
+(pdftex.def)             Requested size: 76.89474pt x 56.06909pt.
+<hidden1_n4_e20.jpg, id=322, 551.05875pt x 417.35925pt>
+File: hidden1_n4_e20.jpg Graphic file (type jpg)
+<use hidden1_n4_e20.jpg>
+Package pdftex.def Info: hidden1_n4_e20.jpg  used on input line 718.
+(pdftex.def)             Requested size: 77.14769pt x 58.42989pt.
+<hidden1_n4_e100.jpg, id=323, 548.64975pt x 402.90524pt>
+File: hidden1_n4_e100.jpg Graphic file (type jpg)
+<use hidden1_n4_e100.jpg>
+Package pdftex.def Info: hidden1_n4_e100.jpg  used on input line 724.
+(pdftex.def)             Requested size: 76.81044pt x 56.40634pt.
+<hidden1_n4_c.jpg, id=324, 551.661pt x 405.31425pt>
+File: hidden1_n4_c.jpg Graphic file (type jpg)
+<use hidden1_n4_c.jpg>
+Package pdftex.def Info: hidden1_n4_c.jpg  used on input line 730.
+(pdftex.def)             Requested size: 77.23201pt x 56.7436pt.
+ [13 <./hidden1_n1_e1.JPG> <./hidden1_n1_e5.JPG> <./hidden1_n1_e20.JPG> <./hidd
+en1_n1_e100.JPG> <./hidden1_n1_c.JPG> <./hidden1_n2_e1.JPG> <./hidden1_n2_e5.JP
+G> <./hidden1_n2_e20.JPG> <./hidden1_n2_e100.JPG> <./hidden1_n2_c.JPG> <./hidde
+n1_n3_e1.JPG> <./hidden1_n3_e5.JPG> <./hidden1_n3_e20.JPG> <./hidden1_n3_e100.J
+PG> <./hidden1_n3_c.JPG> <./hidden1_n4_e1.JPG> <./hidden1_n4_e5.JPG> <./hidden1
+_n4_e20.JPG> <./hidden1_n4_e100.JPG> <./hidden1_n4_c.JPG>]
+<hidden1_n5_e1.jpg, id=330, 546.843pt x 405.9165pt>
+File: hidden1_n5_e1.jpg Graphic file (type jpg)
+<use hidden1_n5_e1.jpg>
+Package pdftex.def Info: hidden1_n5_e1.jpg  used on input line 743.
+(pdftex.def)             Requested size: 76.5575pt x 56.82791pt.
+<hidden1_n5_e5.jpg, id=331, 545.03625pt x 393.8715pt>
+File: hidden1_n5_e5.jpg Graphic file (type jpg)
+<use hidden1_n5_e5.jpg>
+Package pdftex.def Info: hidden1_n5_e5.jpg  used on input line 749.
+(pdftex.def)             Requested size: 76.30455pt x 55.14163pt.
+<hidden1_n5_e20.jpg, id=332, 551.661pt x 398.6895pt>
+File: hidden1_n5_e20.jpg Graphic file (type jpg)
+<use hidden1_n5_e20.jpg>
+Package pdftex.def Info: hidden1_n5_e20.jpg  used on input line 755.
+(pdftex.def)             Requested size: 77.23201pt x 55.81615pt.
+<hidden1_n5_e100.jpg, id=333, 541.42274pt x 409.53pt>
+File: hidden1_n5_e100.jpg Graphic file (type jpg)
+<use hidden1_n5_e100.jpg>
+Package pdftex.def Info: hidden1_n5_e100.jpg  used on input line 761.
+(pdftex.def)             Requested size: 75.79866pt x 57.3338pt.
+<hidden1_n5_c.jpg, id=334, 542.62724pt x 407.121pt>
+File: hidden1_n5_c.jpg Graphic file (type jpg)
+<use hidden1_n5_c.jpg>
+Package pdftex.def Info: hidden1_n5_c.jpg  used on input line 767.
+(pdftex.def)             Requested size: 75.96729pt x 56.99655pt.
+<hidden1_n6_e1.jpg, id=335, 552.8655pt x 403.5075pt>
+File: hidden1_n6_e1.jpg Graphic file (type jpg)
+<use hidden1_n6_e1.jpg>
+Package pdftex.def Info: hidden1_n6_e1.jpg  used on input line 773.
+(pdftex.def)             Requested size: 77.40063pt x 56.49066pt.
+<hidden1_n6_e5.jpg, id=336, 554.67226pt x 415.5525pt>
+File: hidden1_n6_e5.jpg Graphic file (type jpg)
+<use hidden1_n6_e5.jpg>
+Package pdftex.def Info: hidden1_n6_e5.jpg  used on input line 779.
+(pdftex.def)             Requested size: 77.65358pt x 58.17694pt.
+<hidden1_n6_e20.jpg, id=337, 569.12625pt x 411.939pt>
+File: hidden1_n6_e20.jpg Graphic file (type jpg)
+<use hidden1_n6_e20.jpg>
+Package pdftex.def Info: hidden1_n6_e20.jpg  used on input line 785.
+(pdftex.def)             Requested size: 79.67712pt x 57.67105pt.
+<hidden1_n6_e100.jpg, id=338, 544.434pt x 411.939pt>
+File: hidden1_n6_e100.jpg Graphic file (type jpg)
+<use hidden1_n6_e100.jpg>
+Package pdftex.def Info: hidden1_n6_e100.jpg  used on input line 791.
+(pdftex.def)             Requested size: 76.22023pt x 57.67105pt.
+<hidden1_n6_c.jpg, id=339, 549.85425pt x 404.712pt>
+File: hidden1_n6_c.jpg Graphic file (type jpg)
+<use hidden1_n6_c.jpg>
+Package pdftex.def Info: hidden1_n6_c.jpg  used on input line 797.
+(pdftex.def)             Requested size: 76.97906pt x 56.65929pt.
+<hidden1_n7_e1.jpg, id=340, 542.025pt x 400.49625pt>
+File: hidden1_n7_e1.jpg Graphic file (type jpg)
+<use hidden1_n7_e1.jpg>
+Package pdftex.def Info: hidden1_n7_e1.jpg  used on input line 803.
+(pdftex.def)             Requested size: 75.88298pt x 56.06909pt.
+<hidden1_n7_e5.jpg, id=341, 548.64975pt x 413.1435pt>
+File: hidden1_n7_e5.jpg Graphic file (type jpg)
+<use hidden1_n7_e5.jpg>
+Package pdftex.def Info: hidden1_n7_e5.jpg  used on input line 809.
+(pdftex.def)             Requested size: 76.81044pt x 57.83969pt.
+<hidden1_n7_e20.jpg, id=342, 550.4565pt x 411.939pt>
+File: hidden1_n7_e20.jpg Graphic file (type jpg)
+<use hidden1_n7_e20.jpg>
+Package pdftex.def Info: hidden1_n7_e20.jpg  used on input line 815.
+(pdftex.def)             Requested size: 77.06339pt x 57.67105pt.
+<hidden1_n7_e100.jpg, id=343, 540.21825pt x 407.72325pt>
+File: hidden1_n7_e100.jpg Graphic file (type jpg)
+<use hidden1_n7_e100.jpg>
+Package pdftex.def Info: hidden1_n7_e100.jpg  used on input line 821.
+(pdftex.def)             Requested size: 75.63004pt x 57.08086pt.
+<hidden1_n7_c.jpg, id=344, 542.025pt x 393.8715pt>
+File: hidden1_n7_c.jpg Graphic file (type jpg)
+<use hidden1_n7_c.jpg>
+Package pdftex.def Info: hidden1_n7_c.jpg  used on input line 827.
+(pdftex.def)             Requested size: 75.88298pt x 55.14163pt.
+ [14 <./hidden1_n5_e1.JPG> <./hidden1_n5_e5.JPG> <./hidden1_n5_e20.JPG> <./hidd
+en1_n5_e100.JPG> <./hidden1_n5_c.JPG> <./hidden1_n6_e1.JPG> <./hidden1_n6_e5.JP
+G> <./hidden1_n6_e20.JPG> <./hidden1_n6_e100.JPG> <./hidden1_n6_c.JPG> <./hidde
+n1_n7_e1.JPG> <./hidden1_n7_e5.JPG> <./hidden1_n7_e20.JPG> <./hidden1_n7_e100.J
+PG> <./hidden1_n7_c.JPG>]
+<hidden2_n1_e1.jpg, id=349, 549.252pt x 403.5075pt>
+File: hidden2_n1_e1.jpg Graphic file (type jpg)
+<use hidden2_n1_e1.jpg>
+Package pdftex.def Info: hidden2_n1_e1.jpg  used on input line 841.
+(pdftex.def)             Requested size: 76.89474pt x 56.49066pt.
+<hidden2_n1_e5.jpg, id=350, 535.40025pt x 408.92775pt>
+File: hidden2_n1_e5.jpg Graphic file (type jpg)
+<use hidden2_n1_e5.jpg>
+Package pdftex.def Info: hidden2_n1_e5.jpg  used on input line 847.
+(pdftex.def)             Requested size: 74.95552pt x 57.24948pt.
+<hidden2_n1_e20.jpg, id=351, 540.8205pt x 413.74574pt>
+File: hidden2_n1_e20.jpg Graphic file (type jpg)
+<use hidden2_n1_e20.jpg>
+Package pdftex.def Info: hidden2_n1_e20.jpg  used on input line 853.
+(pdftex.def)             Requested size: 75.71434pt x 57.924pt.
+<hidden2_n1_e100.jpg, id=352, 547.44525pt x 405.9165pt>
+File: hidden2_n1_e100.jpg Graphic file (type jpg)
+<use hidden2_n1_e100.jpg>
+Package pdftex.def Info: hidden2_n1_e100.jpg  used on input line 859.
+(pdftex.def)             Requested size: 76.6418pt x 56.82791pt.
+<hidden2_n1_c.jpg, id=353, 540.21825pt x 403.5075pt>
+File: hidden2_n1_c.jpg Graphic file (type jpg)
+<use hidden2_n1_c.jpg>
+Package pdftex.def Info: hidden2_n1_c.jpg  used on input line 865.
+(pdftex.def)             Requested size: 75.63004pt x 56.49066pt.
+<hidden2_n2_e1.jpg, id=354, 539.616pt x 401.0985pt>
+File: hidden2_n2_e1.jpg Graphic file (type jpg)
+<use hidden2_n2_e1.jpg>
+Package pdftex.def Info: hidden2_n2_e1.jpg  used on input line 871.
+(pdftex.def)             Requested size: 75.54572pt x 56.1534pt.
+<hidden2_n2_e5.jpg, id=355, 551.05875pt x 410.7345pt>
+File: hidden2_n2_e5.jpg Graphic file (type jpg)
+<use hidden2_n2_e5.jpg>
+Package pdftex.def Info: hidden2_n2_e5.jpg  used on input line 877.
+(pdftex.def)             Requested size: 77.14769pt x 57.50243pt.
+<hidden2_n2_e20.jpg, id=356, 547.44525pt x 412.54124pt>
+File: hidden2_n2_e20.jpg Graphic file (type jpg)
+<use hidden2_n2_e20.jpg>
+Package pdftex.def Info: hidden2_n2_e20.jpg  used on input line 883.
+(pdftex.def)             Requested size: 76.6418pt x 57.75537pt.
+<hidden2_n2_e100.jpg, id=357, 546.843pt x 402.303pt>
+File: hidden2_n2_e100.jpg Graphic file (type jpg)
+<use hidden2_n2_e100.jpg>
+Package pdftex.def Info: hidden2_n2_e100.jpg  used on input line 889.
+(pdftex.def)             Requested size: 76.5575pt x 56.32202pt.
+<hidden2_n2_c.jpg, id=358, 548.64975pt x 411.33675pt>
+File: hidden2_n2_c.jpg Graphic file (type jpg)
+<use hidden2_n2_c.jpg>
+Package pdftex.def Info: hidden2_n2_c.jpg  used on input line 895.
+(pdftex.def)             Requested size: 76.81044pt x 57.58675pt.
+<hidden2_n3_e1.jpg, id=359, 537.80925pt x 412.54124pt>
+File: hidden2_n3_e1.jpg Graphic file (type jpg)
+<use hidden2_n3_e1.jpg>
+Package pdftex.def Info: hidden2_n3_e1.jpg  used on input line 901.
+(pdftex.def)             Requested size: 75.29277pt x 57.75537pt.
+<hidden2_n3_e5.jpg, id=360, 551.661pt x 408.92775pt>
+File: hidden2_n3_e5.jpg Graphic file (type jpg)
+<use hidden2_n3_e5.jpg>
+Package pdftex.def Info: hidden2_n3_e5.jpg  used on input line 907.
+(pdftex.def)             Requested size: 77.23201pt x 57.24948pt.
+<hidden2_n3_e20.jpg, id=361, 547.44525pt x 409.53pt>
+File: hidden2_n3_e20.jpg Graphic file (type jpg)
+<use hidden2_n3_e20.jpg>
+Package pdftex.def Info: hidden2_n3_e20.jpg  used on input line 913.
+(pdftex.def)             Requested size: 76.6418pt x 57.3338pt.
+<hidden2_n3_e100.jpg, id=362, 552.26324pt x 407.72325pt>
+File: hidden2_n3_e100.jpg Graphic file (type jpg)
+<use hidden2_n3_e100.jpg>
+Package pdftex.def Info: hidden2_n3_e100.jpg  used on input line 919.
+(pdftex.def)             Requested size: 77.31631pt x 57.08086pt.
+<hidden2_n3_c.jpg, id=363, 538.4115pt x 392.06474pt>
+File: hidden2_n3_c.jpg Graphic file (type jpg)
+<use hidden2_n3_c.jpg>
+Package pdftex.def Info: hidden2_n3_c.jpg  used on input line 925.
+(pdftex.def)             Requested size: 75.37709pt x 54.88869pt.
+ [15 <./hidden2_n1_e1.JPG> <./hidden2_n1_e5.JPG> <./hidden2_n1_e20.JPG> <./hidd
+en2_n1_e100.JPG> <./hidden2_n1_c.JPG> <./hidden2_n2_e1.JPG> <./hidden2_n2_e5.JP
+G> <./hidden2_n2_e20.JPG> <./hidden2_n2_e100.JPG> <./hidden2_n2_c.JPG> <./hidde
+n2_n3_e1.JPG> <./hidden2_n3_e5.JPG> <./hidden2_n3_e20.JPG> <./hidden2_n3_e100.J
+PG> <./hidden2_n3_c.JPG>]
+<hidden2_n4_e1.jpg, id=368, 547.44525pt x 417.9615pt>
+File: hidden2_n4_e1.jpg Graphic file (type jpg)
+<use hidden2_n4_e1.jpg>
+Package pdftex.def Info: hidden2_n4_e1.jpg  used on input line 938.
+(pdftex.def)             Requested size: 76.6418pt x 58.5142pt.
+<hidden2_n4_e5.jpg, id=369, 532.389pt x 413.1435pt>
+File: hidden2_n4_e5.jpg Graphic file (type jpg)
+<use hidden2_n4_e5.jpg>
+Package pdftex.def Info: hidden2_n4_e5.jpg  used on input line 944.
+(pdftex.def)             Requested size: 74.53395pt x 57.83969pt.
+<hidden2_n4_e20.jpg, id=370, 549.85425pt x 398.08725pt>
+File: hidden2_n4_e20.jpg Graphic file (type jpg)
+<use hidden2_n4_e20.jpg>
+Package pdftex.def Info: hidden2_n4_e20.jpg  used on input line 950.
+(pdftex.def)             Requested size: 76.97906pt x 55.73183pt.
+<hidden2_n4_e100.jpg, id=371, 558.28575pt x 396.2805pt>
+File: hidden2_n4_e100.jpg Graphic file (type jpg)
+<use hidden2_n4_e100.jpg>
+Package pdftex.def Info: hidden2_n4_e100.jpg  used on input line 956.
+(pdftex.def)             Requested size: 78.15947pt x 55.47888pt.
+<hidden2_n4_c.jpg, id=372, 540.8205pt x 405.31425pt>
+File: hidden2_n4_c.jpg Graphic file (type jpg)
+<use hidden2_n4_c.jpg>
+Package pdftex.def Info: hidden2_n4_c.jpg  used on input line 962.
+(pdftex.def)             Requested size: 75.71434pt x 56.7436pt.
+<hidden2_n5_e1.jpg, id=373, 539.01375pt x 411.33675pt>
+File: hidden2_n5_e1.jpg Graphic file (type jpg)
+<use hidden2_n5_e1.jpg>
+Package pdftex.def Info: hidden2_n5_e1.jpg  used on input line 968.
+(pdftex.def)             Requested size: 75.4614pt x 57.58675pt.
+<hidden2_n5_e5.jpg, id=374, 545.03625pt x 402.90524pt>
+File: hidden2_n5_e5.jpg Graphic file (type jpg)
+<use hidden2_n5_e5.jpg>
+Package pdftex.def Info: hidden2_n5_e5.jpg  used on input line 974.
+(pdftex.def)             Requested size: 76.30455pt x 56.40634pt.
+<hidden2_n5_e20.jpg, id=375, 543.83176pt x 416.15475pt>
+File: hidden2_n5_e20.jpg Graphic file (type jpg)
+<use hidden2_n5_e20.jpg>
+Package pdftex.def Info: hidden2_n5_e20.jpg  used on input line 980.
+(pdftex.def)             Requested size: 76.13593pt x 58.26126pt.
+<hidden2_n5_e100.jpg, id=376, 551.05875pt x 408.92775pt>
+File: hidden2_n5_e100.jpg Graphic file (type jpg)
+<use hidden2_n5_e100.jpg>
+Package pdftex.def Info: hidden2_n5_e100.jpg  used on input line 986.
+(pdftex.def)             Requested size: 77.14769pt x 57.24948pt.
+<hidden2_n5_c.jpg, id=377, 540.21825pt x 407.121pt>
+File: hidden2_n5_c.jpg Graphic file (type jpg)
+<use hidden2_n5_c.jpg>
+Package pdftex.def Info: hidden2_n5_c.jpg  used on input line 992.
+(pdftex.def)             Requested size: 75.63004pt x 56.99655pt.
+<hidden2_n6_e1.jpg, id=378, 534.19576pt x 413.1435pt>
+File: hidden2_n6_e1.jpg Graphic file (type jpg)
+<use hidden2_n6_e1.jpg>
+Package pdftex.def Info: hidden2_n6_e1.jpg  used on input line 998.
+(pdftex.def)             Requested size: 74.7869pt x 57.83969pt.
+<hidden2_n6_e5.jpg, id=379, 527.571pt x 413.1435pt>
+File: hidden2_n6_e5.jpg Graphic file (type jpg)
+<use hidden2_n6_e5.jpg>
+Package pdftex.def Info: hidden2_n6_e5.jpg  used on input line 1004.
+(pdftex.def)             Requested size: 73.85944pt x 57.83969pt.
+<hidden2_n6_e20.jpg, id=380, 535.40025pt x 407.72325pt>
+File: hidden2_n6_e20.jpg Graphic file (type jpg)
+<use hidden2_n6_e20.jpg>
+Package pdftex.def Info: hidden2_n6_e20.jpg  used on input line 1010.
+(pdftex.def)             Requested size: 74.95552pt x 57.08086pt.
+<hidden2_n6_e100.jpg, id=381, 538.4115pt x 411.33675pt>
+File: hidden2_n6_e100.jpg Graphic file (type jpg)
+<use hidden2_n6_e100.jpg>
+Package pdftex.def Info: hidden2_n6_e100.jpg  used on input line 1016.
+(pdftex.def)             Requested size: 75.37709pt x 57.58675pt.
+<hidden2_n6_c.jpg, id=382, 532.389pt x 405.9165pt>
+File: hidden2_n6_c.jpg Graphic file (type jpg)
+<use hidden2_n6_c.jpg>
+Package pdftex.def Info: hidden2_n6_c.jpg  used on input line 1022.
+(pdftex.def)             Requested size: 74.53395pt x 56.82791pt.
+ [16 <./hidden2_n4_e1.JPG> <./hidden2_n4_e5.JPG> <./hidden2_n4_e20.JPG> <./hidd
+en2_n4_e100.JPG> <./hidden2_n4_c.JPG> <./hidden2_n5_e1.JPG> <./hidden2_n5_e5.JP
+G> <./hidden2_n5_e20.JPG> <./hidden2_n5_e100.JPG> <./hidden2_n5_c.JPG> <./hidde
+n2_n6_e1.JPG> <./hidden2_n6_e5.JPG> <./hidden2_n6_e20.JPG> <./hidden2_n6_e100.J
+PG> <./hidden2_n6_c.JPG>]
+<dataset1b_poly_svm_0_cm_train.jpg, id=387, 241.50224pt x 199.947pt>
+File: dataset1b_poly_svm_0_cm_train.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_0_cm_train.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_0_cm_train.jpg  used on input line 
+1059.
+(pdftex.def)             Requested size: 120.75081pt x 99.97325pt.
+<dataset1b_poly_svm_0_cm_test.jpg, id=388, 237.88875pt x 195.73125pt>
+File: dataset1b_poly_svm_0_cm_test.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_0_cm_test.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_0_cm_test.jpg  used on input line 1
+065.
+(pdftex.def)             Requested size: 118.94408pt x 97.86537pt.
+<dataset1b_poly_svm_1_cm_train.jpg, id=389, 240.29774pt x 197.538pt>
+File: dataset1b_poly_svm_1_cm_train.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_1_cm_train.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_1_cm_train.jpg  used on input line 
+1077.
+(pdftex.def)             Requested size: 120.14857pt x 98.76875pt.
+<dataset1b_poly_svm_1_cm_test.jpg, id=390, 240.9pt x 195.129pt>
+File: dataset1b_poly_svm_1_cm_test.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_1_cm_test.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_1_cm_test.jpg  used on input line 1
+083.
+(pdftex.def)             Requested size: 120.44969pt x 97.56425pt.
+ [17 <./dataset1b_poly_svm_0_cm_train.JPG> <./dataset1b_poly_svm_0_cm_test.JPG>
+ <./dataset1b_poly_svm_1_cm_train.JPG> <./dataset1b_poly_svm_1_cm_test.JPG>]
+<dataset1b_poly_svm_2_cm_train.jpg, id=396, 237.88875pt x 196.93575pt>
+File: dataset1b_poly_svm_2_cm_train.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_2_cm_train.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_2_cm_train.jpg  used on input line 
+1098.
+(pdftex.def)             Requested size: 118.94408pt x 98.46762pt.
+<dataset1b_poly_svm_2_cm_test.jpg, id=397, 241.50224pt x 198.14024pt>
+File: dataset1b_poly_svm_2_cm_test.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_2_cm_test.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_2_cm_test.jpg  used on input line 1
+104.
+(pdftex.def)             Requested size: 120.75081pt x 99.06987pt.
+<dataset1b_poly_svm_0_ds.jpg, id=398, 276.43275pt x 182.48175pt>
+File: dataset1b_poly_svm_0_ds.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_0_ds.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_0_ds.jpg  used on input line 1116.
+(pdftex.def)             Requested size: 193.5016pt x 127.73634pt.
+<dataset1b_poly_svm_1_ds.jpg, id=399, 275.22826pt x 182.48175pt>
+File: dataset1b_poly_svm_1_ds.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_1_ds.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_1_ds.jpg  used on input line 1122.
+(pdftex.def)             Requested size: 192.65846pt x 127.73634pt.
+<dataset1b_poly_svm_2_ds.jpg, id=400, 277.63725pt x 184.2885pt>
+File: dataset1b_poly_svm_2_ds.jpg Graphic file (type jpg)
+<use dataset1b_poly_svm_2_ds.jpg>
+Package pdftex.def Info: dataset1b_poly_svm_2_ds.jpg  used on input line 1128.
+(pdftex.def)             Requested size: 194.34474pt x 129.00105pt.
+ [18 <./dataset1b_poly_svm_2_cm_train.JPG> <./dataset1b_poly_svm_2_cm_test.JPG>
+ <./dataset1b_poly_svm_0_ds.JPG> <./dataset1b_poly_svm_1_ds.JPG> <./dataset1b_p
+oly_svm_2_ds.JPG>]
+<dataset1b_gauss_svm_0_cm_train.jpg, id=405, 239.09325pt x 198.7425pt>
+File: dataset1b_gauss_svm_0_cm_train.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_0_cm_train.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_0_cm_train.jpg  used on input line
+ 1168.
+(pdftex.def)             Requested size: 119.54633pt x 99.371pt.
+<dataset1b_gauss_svm_0_cm_test.jpg, id=406, 240.29774pt x 196.3335pt>
+File: dataset1b_gauss_svm_0_cm_test.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_0_cm_test.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_0_cm_test.jpg  used on input line 
+1174.
+(pdftex.def)             Requested size: 120.14857pt x 98.1665pt.
+<dataset1b_gauss_svm_1_cm_train.jpg, id=407, 237.88875pt x 195.129pt>
+File: dataset1b_gauss_svm_1_cm_train.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_1_cm_train.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_1_cm_train.jpg  used on input line
+ 1186.
+(pdftex.def)             Requested size: 118.94408pt x 97.56425pt.
+<dataset1b_gauss_svm_1_cm_test.jpg, id=408, 239.6955pt x 197.538pt>
+File: dataset1b_gauss_svm_1_cm_test.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_1_cm_test.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_1_cm_test.jpg  used on input line 
+1192.
+(pdftex.def)             Requested size: 119.84744pt x 98.76875pt.
+ [19 <./dataset1b_gauss_svm_0_cm_train.JPG> <./dataset1b_gauss_svm_0_cm_test.JP
+G> <./dataset1b_gauss_svm_1_cm_train.JPG> <./dataset1b_gauss_svm_1_cm_test.JPG>
+]
+<dataset1b_gauss_svm_2_cm_train.jpg, id=414, 241.50224pt x 196.93575pt>
+File: dataset1b_gauss_svm_2_cm_train.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_2_cm_train.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_2_cm_train.jpg  used on input line
+ 1207.
+(pdftex.def)             Requested size: 120.75081pt x 98.46762pt.
+<dataset1b_gauss_svm_2_cm_test.jpg, id=415, 237.88875pt x 198.14024pt>
+File: dataset1b_gauss_svm_2_cm_test.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_2_cm_test.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_2_cm_test.jpg  used on input line 
+1213.
+(pdftex.def)             Requested size: 118.94408pt x 99.06987pt.
+<dataset1b_gauss_svm_0_ds.jpg, id=416, 275.8305pt x 183.084pt>
+File: dataset1b_gauss_svm_0_ds.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_0_ds.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_0_ds.jpg  used on input line 1224.
+
+(pdftex.def)             Requested size: 193.08002pt x 128.15791pt.
+<dataset1b_gauss_svm_1_ds.jpg, id=417, 275.22826pt x 183.084pt>
+File: dataset1b_gauss_svm_1_ds.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_1_ds.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_1_ds.jpg  used on input line 1230.
+
+(pdftex.def)             Requested size: 192.65846pt x 128.15791pt.
+<dataset1b_gauss_svm_2_ds.jpg, id=418, 275.8305pt x 182.48175pt>
+File: dataset1b_gauss_svm_2_ds.jpg Graphic file (type jpg)
+<use dataset1b_gauss_svm_2_ds.jpg>
+Package pdftex.def Info: dataset1b_gauss_svm_2_ds.jpg  used on input line 1236.
+
+(pdftex.def)             Requested size: 193.08002pt x 127.73634pt.
+ [20 <./dataset1b_gauss_svm_2_cm_train.JPG> <./dataset1b_gauss_svm_2_cm_test.JP
+G> <./dataset1b_gauss_svm_0_ds.JPG> <./dataset1b_gauss_svm_1_ds.JPG> <./dataset
+1b_gauss_svm_2_ds.JPG>]
+Overfull \hbox (12.04523pt too wide) in paragraph at lines 1259--1260
+\OT1/cmr/m/n/10.95 Hyperparameters : #nodes in hid-den lay-ers 1,2 $= \OMS/cmsy
+/m/n/10.95 f\OT1/cmr/m/n/10.95 (39\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 20)\
+OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (40\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/1
+0.95 40)\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (20\OML/cmm/m/it/10.95 ; \OT1/
+cmr/m/n/10.95 10)\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (30\OML/cmm/m/it/10.9
+5 ; \OT1/cmr/m/n/10.95 30)\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (50\OML/cmm/
+m/it/10.95 ; \OT1/cmr/m/n/10.95 40)\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (70
+\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 60)\OMS/cmsy/m/n/10.95 g$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
+
+ []
+
+<dataset2_mlffnn_cm_train.jpg, id=423, 332.442pt x 231.86626pt>
+File: dataset2_mlffnn_cm_train.jpg Graphic file (type jpg)
+<use dataset2_mlffnn_cm_train.jpg>
+Package pdftex.def Info: dataset2_mlffnn_cm_train.jpg  used on input line 1292.
+
+(pdftex.def)             Requested size: 182.84366pt x 127.52682pt.
+<dataset2_mlffnn_cm_test.jpg, id=424, 324.61275pt x 236.68425pt>
+File: dataset2_mlffnn_cm_test.jpg Graphic file (type jpg)
+<use dataset2_mlffnn_cm_test.jpg>
+Package pdftex.def Info: dataset2_mlffnn_cm_test.jpg  used on input line 1298.
+(pdftex.def)             Requested size: 178.53755pt x 130.17673pt.
+[21 <./dataset2_mlffnn_cm_train.JPG> <./dataset2_mlffnn_cm_test.JPG>]
+<dataset2_gauss_0_cm_train.jpg, id=434, 239.09325pt x 196.3335pt>
+File: dataset2_gauss_0_cm_train.jpg Graphic file (type jpg)
+<use dataset2_gauss_0_cm_train.jpg>
+Package pdftex.def Info: dataset2_gauss_0_cm_train.jpg  used on input line 1337
+.
+(pdftex.def)             Requested size: 119.54633pt x 98.1665pt.
+<dataset2_gauss_0_cm_test.jpg, id=435, 239.6955pt x 193.9245pt>
+File: dataset2_gauss_0_cm_test.jpg Graphic file (type jpg)
+<use dataset2_gauss_0_cm_test.jpg>
+Package pdftex.def Info: dataset2_gauss_0_cm_test.jpg  used on input line 1343.
+
+(pdftex.def)             Requested size: 119.84744pt x 96.962pt.
+<dataset2_gauss_1_cm_train.jpg, id=436, 239.6955pt x 193.9245pt>
+File: dataset2_gauss_1_cm_train.jpg Graphic file (type jpg)
+<use dataset2_gauss_1_cm_train.jpg>
+Package pdftex.def Info: dataset2_gauss_1_cm_train.jpg  used on input line 1355
+.
+(pdftex.def)             Requested size: 119.84744pt x 96.962pt.
+<dataset2_gauss_1_cm_test.jpg, id=437, 239.6955pt x 194.52675pt>
+File: dataset2_gauss_1_cm_test.jpg Graphic file (type jpg)
+<use dataset2_gauss_1_cm_test.jpg>
+Package pdftex.def Info: dataset2_gauss_1_cm_test.jpg  used on input line 1361.
+
+(pdftex.def)             Requested size: 119.84744pt x 97.26312pt.
+<dataset2_gauss_2_cm_train.jpg, id=438, 239.09325pt x 194.52675pt>
+File: dataset2_gauss_2_cm_train.jpg Graphic file (type jpg)
+<use dataset2_gauss_2_cm_train.jpg>
+Package pdftex.def Info: dataset2_gauss_2_cm_train.jpg  used on input line 1373
+.
+(pdftex.def)             Requested size: 119.54633pt x 97.26312pt.
+<dataset2_gauss_2_cm_test.jpg, id=439, 241.50224pt x 195.73125pt>
+File: dataset2_gauss_2_cm_test.jpg Graphic file (type jpg)
+<use dataset2_gauss_2_cm_test.jpg>
+Package pdftex.def Info: dataset2_gauss_2_cm_test.jpg  used on input line 1379.
+
+(pdftex.def)             Requested size: 120.75081pt x 97.86537pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<dataset2_gauss_3_cm_train.jpg, id=440, 241.50224pt x 194.52675pt>
+File: dataset2_gauss_3_cm_train.jpg Graphic file (type jpg)
+<use dataset2_gauss_3_cm_train.jpg>
+Package pdftex.def Info: dataset2_gauss_3_cm_train.jpg  used on input line 1391
+.
+(pdftex.def)             Requested size: 120.75081pt x 97.26312pt.
+<dataset2_gauss_3_cm_test.jpg, id=441, 239.09325pt x 193.9245pt>
+File: dataset2_gauss_3_cm_test.jpg Graphic file (type jpg)
+<use dataset2_gauss_3_cm_test.jpg>
+Package pdftex.def Info: dataset2_gauss_3_cm_test.jpg  used on input line 1397.
+
+(pdftex.def)             Requested size: 119.54633pt x 96.962pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<dataset2_gauss_4_cm_train.jpg, id=442, 240.29774pt x 195.129pt>
+File: dataset2_gauss_4_cm_train.jpg Graphic file (type jpg)
+<use dataset2_gauss_4_cm_train.jpg>
+Package pdftex.def Info: dataset2_gauss_4_cm_train.jpg  used on input line 1409
+.
+(pdftex.def)             Requested size: 120.14857pt x 97.56425pt.
+<dataset2_gauss_4_cm_test.jpg, id=443, 239.6955pt x 193.9245pt>
+File: dataset2_gauss_4_cm_test.jpg Graphic file (type jpg)
+<use dataset2_gauss_4_cm_test.jpg>
+Package pdftex.def Info: dataset2_gauss_4_cm_test.jpg  used on input line 1415.
+
+(pdftex.def)             Requested size: 119.84744pt x 96.962pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./dataset2_gauss_0_cm_train.JPG> <./dataset2_gauss_0_cm_test.JPG> <./datas
+et2_gauss_1_cm_train.JPG> <./dataset2_gauss_1_cm_test.JPG>] [23 <./dataset2_gau
+ss_2_cm_train.JPG> <./dataset2_gauss_2_cm_test.JPG> <./dataset2_gauss_3_cm_trai
+n.JPG> <./dataset2_gauss_3_cm_test.JPG> <./dataset2_gauss_4_cm_train.JPG> <./da
+taset2_gauss_4_cm_test.JPG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1423.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1423.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1423.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1423.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 1292F6BFFA96D544000830EA251958EC;1089.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1423.
+ ) 
+Here is how much of TeX's memory you used:
+ 18878 strings out of 480880
+ 367186 string characters out of 5911595
+ 609248 words of memory out of 5000000
+ 33918 multiletter control sequences out of 15000+600000
+ 541157 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,10n,60p,406b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on main.pdf (23 pages, 7787060 bytes).
+PDF statistics:
+ 499 PDF objects out of 1000 (max. 8388607)
+ 311 compressed objects within 4 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 885 words of extra memory for PDF output out of 10000 (max. 10000000)
+

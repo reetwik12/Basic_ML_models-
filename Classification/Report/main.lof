@@ -1,0 +1,20 @@
+\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Confusion matrix for datatset 1a using KNN classifier, $K=1$\relax }}{4}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.1.2}{\ignorespaces Decision region plots superposed with training examples for datatset 1a using KNN classifier, $K=1$\relax }}{4}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.2.1}{\ignorespaces Confusion matrix for datatset 1a using Naive bayes classifier, the covariance matrices are same and $= \sigma ^2 I$\relax }}{5}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.2.2}{\ignorespaces Plots for datatset 1a using Naive bayes classifier, the covariance matrices are same and $= \sigma ^2 I$\relax }}{5}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.3.1}{\ignorespaces Confusion matrix for datatset 1a using Naive bayes classifier, the covariance matrices are same $= C$\relax }}{6}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.3.2}{\ignorespaces Plots for datatset 1a using Naive bayes classifier, the covariance matrices are same $= C$ \relax }}{6}{figure.caption.12}%
+\contentsline {figure}{\numberline {1.4.1}{\ignorespaces Confusion matrix for datatset 1a using Naive bayes classifier, the covariance matrices are different\relax }}{7}{figure.caption.14}%
+\contentsline {figure}{\numberline {1.4.2}{\ignorespaces Plots for datatset 1a using Naive bayes classifier, the covariance matrices are different \relax }}{7}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.1.1}{\ignorespaces Confusion matrix for datatset 1b using KNN classifier, $K=1$\relax }}{8}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.1.2}{\ignorespaces Decision region plots superposed with training examples for datatset 1b using KNN classifier, $K=1$\relax }}{8}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Confusion matrix for datatset 1b using GMM with full covariance matrix, $Q= 10$\relax }}{9}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Plots for datatset 1b using GMM with full covariance matrix, $Q= 10$\relax }}{9}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.3.1}{\ignorespaces Confusion matrix for datatset 1b using GMM classifier with diagonal covariance matrices\relax }}{10}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.3.2}{\ignorespaces Plots for datatset 1b using GMM with diagonal covariance matrix, $Q= 10$\relax }}{10}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.4.1}{\ignorespaces Confusion matrix for datatset 1b using KNN density estimator classifier, $K =10$\relax }}{11}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.4.2}{\ignorespaces Decision region plots superposed with training examples for datatset 1b using KNN density estimator, $K=10$\relax }}{11}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.1.1}{\ignorespaces Confusion matrix for datatset 2a using GMM with full covariance matrix\relax }}{12}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Confusion matrix for datatset 2a using GMM with diagonal covariance matrix\relax }}{13}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.1.1}{\ignorespaces Confusion matrix for datatset 2b using GMM classifier with full covariance matrices\relax }}{14}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.2.1}{\ignorespaces Confusion matrix for datatset 2b using GMM classifier with diagonal covariance matrices\relax }}{15}{figure.caption.35}%

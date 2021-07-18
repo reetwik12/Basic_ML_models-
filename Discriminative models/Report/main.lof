@@ -1,0 +1,37 @@
+\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Confusion matrix for the classification between class 0 vs class 1 of dataset 1a using Perceptron\relax }}{4}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.1.2}{\ignorespaces Confusion matrix for the classification between class 0 vs class 2 of dataset 1a using Perceptron\relax }}{4}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.1.3}{\ignorespaces Confusion matrix for the classification between class 0 vs class 3 of dataset 1a using Perceptron\relax }}{5}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.1.4}{\ignorespaces Confusion matrix for the classification between class 1 vs class 2 of dataset 1a using Perceptron\relax }}{5}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.1.5}{\ignorespaces Confusion matrix for the classification between class 1 vs class 3 of dataset 1a using Perceptron\relax }}{5}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.1.6}{\ignorespaces Confusion matrix for the classification between class 2 vs class 3 of dataset 1a using Perceptron\relax }}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.1.7}{\ignorespaces Decision region plots between each pair of classes of dataset 1a using Perceptron\relax }}{6}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.2.1}{\ignorespaces Confusion matrix for the classification of dataset 1a using mlffnn with 3 nodes in hidden layer\relax }}{7}{figure.caption.13}%
+\contentsline {figure}{\numberline {1.2.2}{\ignorespaces Decision surfaces for plots of dataset 1a using mlffnn with 3 nodes in hidden layer\relax }}{7}{figure.caption.14}%
+\contentsline {figure}{\numberline {1.3.1}{\ignorespaces Confusion matrix for the classification between class 0 vs class 1 of dataset 1a using linear SVM\relax }}{8}{figure.caption.16}%
+\contentsline {figure}{\numberline {1.3.2}{\ignorespaces Confusion matrix for the classification between class 0 vs class 2 of dataset 1a using linear SVM\relax }}{8}{figure.caption.17}%
+\contentsline {figure}{\numberline {1.3.3}{\ignorespaces Confusion matrix for the classification between class 0 vs class 3 of dataset 1a using linear SVM\relax }}{9}{figure.caption.18}%
+\contentsline {figure}{\numberline {1.3.4}{\ignorespaces Confusion matrix for the classification between class 1 vs class 2 of dataset 1a using linear SVM\relax }}{9}{figure.caption.19}%
+\contentsline {figure}{\numberline {1.3.5}{\ignorespaces Confusion matrix for the classification between class 1 vs class 3 of dataset 1a using linear SVM\relax }}{9}{figure.caption.20}%
+\contentsline {figure}{\numberline {1.3.6}{\ignorespaces Confusion matrix for the classification between class 2 vs class 3 of dataset 1a using linear SVM\relax }}{9}{figure.caption.21}%
+\contentsline {figure}{\numberline {1.3.7}{\ignorespaces Decision region plots between each pair of classes of dataset 1a using linear SVM\relax }}{10}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.1.1}{\ignorespaces Confusion matrix for datatset 1b using MLFFNN with 7 nodes in Hidden layer 1 and 6 nodes in Hidden layer 2\relax }}{11}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.1.2}{\ignorespaces Decision surfaces for plots of dataset 1b using mlffnn\relax }}{11}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.1.3}{\ignorespaces Outputs of the output nodes for datatset 1b using MLFFNN with 7 nodes in Hidden layer 1 and 6 nodes in Hidden layer 2\relax }}{12}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.1.4}{\ignorespaces Outputs of the hidden layer 1 nodes (1-4) for datatset 1b using MLFFNN with 7 nodes in Hidden layer 1 and 6 nodes in Hidden layer 2\relax }}{13}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.1.5}{\ignorespaces Outputs of the hidden layer 1 nodes(5-7) for datatset 1b using MLFFNN with 7 nodes in Hidden layer 1 and 6 nodes in Hidden layer 2\relax }}{14}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.1.6}{\ignorespaces Outputs of the hidden layer 2 nodes(1-3) for datatset 1b using MLFFNN with 7 nodes in Hidden layer 1 and 6 nodes in Hidden layer 2\relax }}{15}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.1.7}{\ignorespaces Outputs of the hidden layer 2 nodes(4-6) for datatset 1b using MLFFNN with 7 nodes in Hidden layer 1 and 6 nodes in Hidden layer 2\relax }}{16}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Confusion matrix for class 0 vs rest in datatset 1b using polynomial SVM\relax }}{17}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Confusion matrix for class 1 vs rest in datatset 1b using polynomial SVM\relax }}{17}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.2.3}{\ignorespaces Confusion matrix for class 2 vs rest in datatset 1b using polynomial SVM\relax }}{18}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.2.4}{\ignorespaces Decision region plots for 1 class vs frest in datatset 1b using polynomial SVM\relax }}{18}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.3.1}{\ignorespaces Confusion matrix for class 0 vs rest in datatset 1b using Gaussian SVM\relax }}{19}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.3.2}{\ignorespaces Confusion matrix for class 1 vs rest in datatset 1b using Gaussian SVM\relax }}{19}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.3.3}{\ignorespaces Confusion matrix for class 2 vs rest in datatset 1b using Gaussian SVM\relax }}{20}{figure.caption.39}%
+\contentsline {figure}{\numberline {2.3.4}{\ignorespaces Decision region plots for 1 class vs frest in datatset 1b using Gaussian SVM\relax }}{20}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.1.1}{\ignorespaces Confusion matrix for datatset 2 using MLFFNN with 70 nodes in Hidden layer 1 and 60 nodes in Hidden layer 2\relax }}{21}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Confusion matrix for class 0 vs rest in datatset 2 using Gaussian SVM\relax }}{22}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.2.2}{\ignorespaces Confusion matrix for class 1 vs rest in datatset 2 using Gaussian SVM\relax }}{22}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.2.3}{\ignorespaces Confusion matrix for class 2 vs rest in datatset 2 using Gaussian SVM\relax }}{23}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.2.4}{\ignorespaces Confusion matrix for class 3 vs rest in datatset 2 using Gaussian SVM\relax }}{23}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.2.5}{\ignorespaces Confusion matrix for class 4 vs rest in datatset 2 using Gaussian SVM\relax }}{23}{figure.caption.48}%

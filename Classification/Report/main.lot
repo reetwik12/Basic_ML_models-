@@ -1,0 +1,12 @@
+\contentsline {table}{\numberline {1.1.1}{\ignorespaces Classification accuracy of KNN classifier on Dataset 1a\relax }}{4}{table.caption.4}%
+\contentsline {table}{\numberline {1.2.1}{\ignorespaces Classification accuracy of Naive bayes classifier on Dataset 1a, the covariance matrices are same and $=\sigma ^2I$\relax }}{5}{table.caption.7}%
+\contentsline {table}{\numberline {1.3.1}{\ignorespaces Classification accuracy of Naive bayes classifier on Dataset 1a, the covariance matrices are same $= C$\relax }}{6}{table.caption.10}%
+\contentsline {table}{\numberline {1.4.1}{\ignorespaces Classification accuracy of Naive bayes classifier on Dataset 1a, the covariance matrices are different\relax }}{7}{table.caption.13}%
+\contentsline {table}{\numberline {2.1.1}{\ignorespaces Classification accuracy of KNN classifier on Dataset 1b\relax }}{8}{table.caption.16}%
+\contentsline {table}{\numberline {2.2.1}{\ignorespaces Classification accuracy of GMM classifier using full covariance matrix on Dataset 1b\relax }}{9}{table.caption.19}%
+\contentsline {table}{\numberline {2.3.1}{\ignorespaces Classification accuracy of GMM classifier using diagonal covariance matrices on Dataset 1b\relax }}{10}{table.caption.22}%
+\contentsline {table}{\numberline {2.4.1}{\ignorespaces Classification accuracy of KNN density estimator classifier on Dataset 1b\relax }}{11}{table.caption.25}%
+\contentsline {table}{\numberline {3.1.1}{\ignorespaces Classification accuracy of GMM classifier using full covariance matrices on Dataset 2a\relax }}{12}{table.caption.28}%
+\contentsline {table}{\numberline {3.2.1}{\ignorespaces Classification accuracy of GMM classifier using diagonal covariance matrices on Dataset 2a\relax }}{13}{table.caption.30}%
+\contentsline {table}{\numberline {4.1.1}{\ignorespaces Classification accuracy of GMM classifier using full covariance matrices on Dataset 2b\relax }}{14}{table.caption.32}%
+\contentsline {table}{\numberline {4.2.1}{\ignorespaces Classification accuracy of GMM classifier using diagonal covariance matrices on Dataset 2b\relax }}{15}{table.caption.34}%

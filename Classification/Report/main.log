@@ -1,0 +1,1321 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.7)  18 JUL 2021 21:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen135
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count176
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count177
+\leftroot@=\count178
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count179
+\DOTSCASE@=\count180
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count181
+\c@MaxMatrixCols=\count182
+\dotsspace@=\muskip16
+\c@parentequation=\count183
+\dspbrk@lvl=\count184
+\tag@help=\toks18
+\row@=\count185
+\column@=\count186
+\maxfields@=\count187
+\andhelp@=\toks19
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks27
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks29
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (d:/Softwares/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen144
+\Hy@linkcounter=\count188
+\Hy@pagecounter=\count189
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count190
+Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count191
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen145
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count192
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring ON on input line 6365.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count193
+\c@Item=\count194
+\c@Hfootnote=\count195
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count196
+\c@bookmark@seq@number=\count197
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.s
+ty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.s
+ty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip56
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.
+tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-
+lists.tex))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.d
+ef
+\pgfutil@abb=\box47
+ (d:/Softwares/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.t
+ex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.te
+x
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count198
+\c@pgf@countb=\count199
+\c@pgf@countc=\count266
+\c@pgf@countd=\count267
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count268
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex
+.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common
+-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpat
+h.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count269
+\pgfsyssoftpath@bigbuffer@items=\count270
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotoco
+l.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (d:/Softwares/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.t
+ex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.t
+ex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count271
+\pgfmath@box=\box48
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.cod
+e.tex
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.bas
+ic.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.tri
+gonometric.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.ran
+dom.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.com
+parison.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.bas
+e.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rou
+nd.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.mis
+c.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.int
+egerarithmetics.code.tex)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.te
+x
+\c@pgfmathroundto@lastzeros=\count272
+)) (d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.
+code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathcon
+struct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusa
+ge.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.
+code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count273
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphic
+state.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen181
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransfo
+rmations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.c
+ode.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects
+.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathpro
+cessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.
+code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen185
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.c
+ode.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count274
+\pgf@shadingcount=\count275
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.c
+ode.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexterna
+l.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box52
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.
+code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspa
+rency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepattern
+s.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.cod
+e.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.c
+ode.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box53
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.cod
+e.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-versi
+on-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-versi
+on-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.te
+x)) (d:/Softwares/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.c
+ode.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryploth
+andlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count276
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikz@lastmovetox=\dimen196
+\tikz@lastmovetoy=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count277
+\tikznumberofchildren=\count278
+\tikznumberofcurrentchild=\count279
+\tikz@fig@count=\count280
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.c
+ode.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count281
+\pgfmatrixcurrentcolumn=\count282
+\pgf@matrix@numberofcolumns=\count283
+)
+\tikz@expandcount=\count284
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librar
+ies/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count285
+\mult@box=\box58
+\multicol@leftmargin=\dimen256
+\c@unbalance=\count286
+\c@collectmore=\count287
+\doublecol@number=\count288
+\multicoltolerance=\count289
+\multicolpretolerance=\count290
+\full@width=\dimen257
+\page@free=\dimen258
+\premulticols=\dimen259
+\postmulticols=\dimen260
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box59
+\last@line=\box60
+\maxbalancingoverflow=\dimen261
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@gfirstbox=\box63
+\mult@firstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count291
+\c@columnbadness=\count292
+\c@finalcolumnbadness=\count293
+\last@try=\dimen262
+\multicolovershoot=\dimen263
+\multicolundershoot=\dimen264
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count294
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
+\captionmargin=\dimen265
+\captionmargin@=\dimen266
+\captionwidth=\dimen267
+\caption@tempdima=\dimen268
+\caption@indent=\dimen269
+\caption@parindent=\dimen270
+\caption@hangindent=\dimen271
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+Package caption Info: hyperref package is loaded.
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
+\c@subfigure=\count297
+\c@subtable=\count298
+)
+\c@theorem=\count299
+\c@lemma=\count300
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count301
+\l__pdf_internal_box=\box104
+) (./main.aux
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.1.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+
+LaTeX Warning: Label `tab:tab1.1.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig2.2.3.2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig1.2.1' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+\AtBeginShipoutBox=\box105
+Package hyperref Info: Link coloring ON on input line 28.
+ (d:/Softwares/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring
+.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count302
+)
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
+ (./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+ ABD: EveryShipout initializing macros
+(d:/Softwares/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen272
+\scratchbox=\box106
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen273
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks43
+)
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/Softwares/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{d:/Softwares/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ (./main.lof [2])
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+ [3]
+<dataset1a_knn_hm_train.jpg, id=192, 228.855pt x 192.11775pt>
+File: dataset1a_knn_hm_train.jpg Graphic file (type jpg)
+<use dataset1a_knn_hm_train.jpg>
+Package pdftex.def Info: dataset1a_knn_hm_train.jpg  used on input line 63.
+(pdftex.def)             Requested size: 137.31404pt x 115.27153pt.
+<dataset1a_knn_hm_test.jpg, id=193, 226.446pt x 186.6975pt>
+File: dataset1a_knn_hm_test.jpg Graphic file (type jpg)
+<use dataset1a_knn_hm_test.jpg>
+Package pdftex.def Info: dataset1a_knn_hm_test.jpg  used on input line 70.
+(pdftex.def)             Requested size: 135.86864pt x 112.01935pt.
+<dataset1a_knn.jpg, id=194, 514.92375pt x 348.1005pt>
+File: dataset1a_knn.jpg Graphic file (type jpg)
+<use dataset1a_knn.jpg>
+Package pdftex.def Info: dataset1a_knn.jpg  used on input line 80.
+(pdftex.def)             Requested size: 205.96585pt x 139.23772pt.
+ [4 <./dataset1a_knn_hm_train.JPG> <./dataset1a_knn_hm_test.JPG> <./dataset1a_k
+nn.JPG>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sigma' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+<dataset1a_nb_sigmaI_hm_train.jpg, id=200, 230.66174pt x 188.50426pt>
+File: dataset1a_nb_sigmaI_hm_train.jpg Graphic file (type jpg)
+<use dataset1a_nb_sigmaI_hm_train.jpg>
+Package pdftex.def Info: dataset1a_nb_sigmaI_hm_train.jpg  used on input line 1
+06.
+(pdftex.def)             Requested size: 138.3981pt x 113.10341pt.
+<dataset1a_nb_sigmaI_hm_test.jpg, id=201, 224.63925pt x 186.6975pt>
+File: dataset1a_nb_sigmaI_hm_test.jpg Graphic file (type jpg)
+<use dataset1a_nb_sigmaI_hm_test.jpg>
+Package pdftex.def Info: dataset1a_nb_sigmaI_hm_test.jpg  used on input line 11
+3.
+(pdftex.def)             Requested size: 134.78458pt x 112.01935pt.
+<dataset1a_sigmaI_nb_2D.jpg, id=202, 550.4565pt x 392.06474pt>
+File: dataset1a_sigmaI_nb_2D.jpg Graphic file (type jpg)
+<use dataset1a_sigmaI_nb_2D.jpg>
+Package pdftex.def Info: dataset1a_sigmaI_nb_2D.jpg  used on input line 125.
+(pdftex.def)             Requested size: 165.13821pt x 117.62033pt.
+<dataset1a_sigmaI_nb_3D.jpg, id=203, 493.845pt x 387.24675pt>
+File: dataset1a_sigmaI_nb_3D.jpg Graphic file (type jpg)
+<use dataset1a_sigmaI_nb_3D.jpg>
+Package pdftex.def Info: dataset1a_sigmaI_nb_3D.jpg  used on input line 132.
+(pdftex.def)             Requested size: 148.15463pt x 116.17491pt.
+[5 <./dataset1a_nb_sigmaI_hm_train.JPG> <./dataset1a_nb_sigmaI_hm_test.JPG> <./
+dataset1a_sigmaI_nb_2D.JPG> <./dataset1a_sigmaI_nb_3D.JPG>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 141.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 141.
+
+<dataset1a_nb_sameC_hm_train.jpg, id=209, 230.66174pt x 190.311pt>
+File: dataset1a_nb_sameC_hm_train.jpg Graphic file (type jpg)
+<use dataset1a_nb_sameC_hm_train.jpg>
+Package pdftex.def Info: dataset1a_nb_sameC_hm_train.jpg  used on input line 16
+1.
+(pdftex.def)             Requested size: 138.3981pt x 114.18747pt.
+<dataset1a_nb_sameC_hm_test.jpg, id=210, 226.446pt x 184.89075pt>
+File: dataset1a_nb_sameC_hm_test.jpg Graphic file (type jpg)
+<use dataset1a_nb_sameC_hm_test.jpg>
+Package pdftex.def Info: dataset1a_nb_sameC_hm_test.jpg  used on input line 168
+.
+(pdftex.def)             Requested size: 135.86864pt x 110.93529pt.
+<dataset1a_sameC_nb_2D.jpg, id=211, 555.2745pt x 389.65575pt>
+File: dataset1a_sameC_nb_2D.jpg Graphic file (type jpg)
+<use dataset1a_sameC_nb_2D.jpg>
+Package pdftex.def Info: dataset1a_sameC_nb_2D.jpg  used on input line 180.
+(pdftex.def)             Requested size: 166.58363pt x 116.89761pt.
+<dataset1a_sameC_nb_3D.jpg, id=212, 500.46976pt x 377.61075pt>
+File: dataset1a_sameC_nb_3D.jpg Graphic file (type jpg)
+<use dataset1a_sameC_nb_3D.jpg>
+Package pdftex.def Info: dataset1a_sameC_nb_3D.jpg  used on input line 187.
+(pdftex.def)             Requested size: 150.14207pt x 113.28409pt.
+[6 <./dataset1a_nb_sameC_hm_train.JPG> <./dataset1a_nb_sameC_hm_test.JPG> <./da
+taset1a_sameC_nb_2D.JPG> <./dataset1a_sameC_nb_3D.JPG>]
+<dataset1a_nb_differentC_hm_train.jpg, id=217, 232.4685pt x 190.91325pt>
+File: dataset1a_nb_differentC_hm_train.jpg Graphic file (type jpg)
+<use dataset1a_nb_differentC_hm_train.jpg>
+Package pdftex.def Info: dataset1a_nb_differentC_hm_train.jpg  used on input li
+ne 216.
+(pdftex.def)             Requested size: 139.48216pt x 114.54883pt.
+<dataset1a_nb_differentC_hm_test.jpg, id=218, 228.25275pt x 186.09525pt>
+File: dataset1a_nb_differentC_hm_test.jpg Graphic file (type jpg)
+<use dataset1a_nb_differentC_hm_test.jpg>
+Package pdftex.def Info: dataset1a_nb_differentC_hm_test.jpg  used on input lin
+e 223.
+(pdftex.def)             Requested size: 136.9527pt x 111.65799pt.
+<dataset1a_differentC_nb_2D.jpg, id=219, 498.663pt x 361.35pt>
+File: dataset1a_differentC_nb_2D.jpg Graphic file (type jpg)
+<use dataset1a_differentC_nb_2D.jpg>
+Package pdftex.def Info: dataset1a_differentC_nb_2D.jpg  used on input line 235
+.
+(pdftex.def)             Requested size: 149.60005pt x 108.40584pt.
+<dataset1a_differentC_nb_3D.jpg, id=220, 460.119pt x 349.90726pt>
+File: dataset1a_differentC_nb_3D.jpg Graphic file (type jpg)
+<use dataset1a_differentC_nb_3D.jpg>
+Package pdftex.def Info: dataset1a_differentC_nb_3D.jpg  used on input line 242
+.
+(pdftex.def)             Requested size: 138.03676pt x 104.97298pt.
+ [7 <./dataset1a_nb_differentC_hm_train.JPG> <./dataset1a_nb_differentC_hm_test
+.JPG> <./dataset1a_differentC_nb_2D.JPG> <./dataset1a_differentC_nb_3D.JPG>]
+<dataset1b_knn_hm_train.jpg, id=226, 231.264pt x 189.70876pt>
+File: dataset1b_knn_hm_train.jpg Graphic file (type jpg)
+<use dataset1b_knn_hm_train.jpg>
+Package pdftex.def Info: dataset1b_knn_hm_train.jpg  used on input line 279.
+(pdftex.def)             Requested size: 138.75946pt x 113.82613pt.
+<dataset1b_knn_hm_test.jpg, id=227, 230.0595pt x 187.902pt>
+File: dataset1b_knn_hm_test.jpg Graphic file (type jpg)
+<use dataset1b_knn_hm_test.jpg>
+Package pdftex.def Info: dataset1b_knn_hm_test.jpg  used on input line 286.
+(pdftex.def)             Requested size: 138.03676pt x 112.74207pt.
+<dataset1b_k7_knn.jpg, id=228, 553.46774pt x 393.26926pt>
+File: dataset1b_k7_knn.jpg Graphic file (type jpg)
+<use dataset1b_k7_knn.jpg>
+Package pdftex.def Info: dataset1b_k7_knn.jpg  used on input line 296.
+(pdftex.def)             Requested size: 193.7166pt x 137.6463pt.
+ [8 <./dataset1b_knn_hm_train.JPG> <./dataset1b_knn_hm_test.JPG> <./dataset1b_k
+7_knn.JPG>]
+<dataset1b_gmm_full_hm_train.jpg, id=233, 230.66174pt x 189.1065pt>
+File: dataset1b_gmm_full_hm_train.jpg Graphic file (type jpg)
+<use dataset1b_gmm_full_hm_train.jpg>
+Package pdftex.def Info: dataset1b_gmm_full_hm_train.jpg  used on input line 32
+9.
+(pdftex.def)             Requested size: 115.33058pt x 94.55301pt.
+<dataset1b_gmm_full_hm_test.jpg, id=234, 230.66174pt x 187.902pt>
+File: dataset1b_gmm_full_hm_test.jpg Graphic file (type jpg)
+<use dataset1b_gmm_full_hm_test.jpg>
+Package pdftex.def Info: dataset1b_gmm_full_hm_test.jpg  used on input line 336
+.
+(pdftex.def)             Requested size: 115.33058pt x 93.95076pt.
+<dataset1b_k10_fullC_GMM_2D.jpg, id=235, 454.69875pt x 317.38576pt>
+File: dataset1b_k10_fullC_GMM_2D.jpg Graphic file (type jpg)
+<use dataset1b_k10_fullC_GMM_2D.jpg>
+Package pdftex.def Info: dataset1b_k10_fullC_GMM_2D.jpg  used on input line 347
+.
+(pdftex.def)             Requested size: 159.14694pt x 111.08667pt.
+<dataset1b_k10_fullC_GMM_3D.jpg, id=236, 428.19975pt x 367.3725pt>
+File: dataset1b_k10_fullC_GMM_3D.jpg Graphic file (type jpg)
+<use dataset1b_k10_fullC_GMM_3D.jpg>
+Package pdftex.def Info: dataset1b_k10_fullC_GMM_3D.jpg  used on input line 354
+.
+(pdftex.def)             Requested size: 149.87215pt x 128.58229pt.
+ [9 <./dataset1b_gmm_full_hm_train.JPG> <./dataset1b_gmm_full_hm_test.JPG> <./d
+ataset1b_k10_fullC_GMM_2D.JPG> <./dataset1b_k10_fullC_GMM_3D.JPG>]
+<dataset1b_gmm_diagonal_hm_train.jpg, id=241, 230.66174pt x 189.70876pt>
+File: dataset1b_gmm_diagonal_hm_train.jpg Graphic file (type jpg)
+<use dataset1b_gmm_diagonal_hm_train.jpg>
+Package pdftex.def Info: dataset1b_gmm_diagonal_hm_train.jpg  used on input lin
+e 389.
+(pdftex.def)             Requested size: 115.33058pt x 94.85414pt.
+<dataset1b_gmm_diagonal_hm_test.jpg, id=242, 230.66174pt x 187.902pt>
+File: dataset1b_gmm_diagonal_hm_test.jpg Graphic file (type jpg)
+<use dataset1b_gmm_diagonal_hm_test.jpg>
+Package pdftex.def Info: dataset1b_gmm_diagonal_hm_test.jpg  used on input line
+ 396.
+(pdftex.def)             Requested size: 115.33058pt x 93.95076pt.
+<dataset1b_k10_diagonalC_GMM_2D.jpg, id=243, 455.301pt x 317.38576pt>
+File: dataset1b_k10_diagonalC_GMM_2D.jpg Graphic file (type jpg)
+<use dataset1b_k10_diagonalC_GMM_2D.jpg>
+Package pdftex.def Info: dataset1b_k10_diagonalC_GMM_2D.jpg  used on input line
+ 408.
+(pdftex.def)             Requested size: 136.59134pt x 95.21646pt.
+<dataset1b_k10_diagonalC_GMM_3D.jpg, id=244, 430.0065pt x 375.804pt>
+File: dataset1b_k10_diagonalC_GMM_3D.jpg Graphic file (type jpg)
+<use dataset1b_k10_diagonalC_GMM_3D.jpg>
+Package pdftex.def Info: dataset1b_k10_diagonalC_GMM_3D.jpg  used on input line
+ 415.
+(pdftex.def)             Requested size: 129.00294pt x 112.74207pt.
+ [10 <./dataset1b_gmm_diagonal_hm_train.JPG> <./dataset1b_gmm_diagonal_hm_test.
+JPG> <./dataset1b_k10_diagonalC_GMM_2D.JPG> <./dataset1b_k10_diagonalC_GMM_3D.J
+PG>]
+<dataset1b_knnde_hm_train.jpg, id=249, 229.45724pt x 189.1065pt>
+File: dataset1b_knnde_hm_train.jpg Graphic file (type jpg)
+<use dataset1b_knnde_hm_train.jpg>
+Package pdftex.def Info: dataset1b_knnde_hm_train.jpg  used on input line 450.
+(pdftex.def)             Requested size: 137.67538pt x 113.46477pt.
+<dataset1b_knnde_hm_test.jpg, id=250, 230.0595pt x 185.493pt>
+File: dataset1b_knnde_hm_test.jpg Graphic file (type jpg)
+<use dataset1b_knnde_hm_test.jpg>
+Package pdftex.def Info: dataset1b_knnde_hm_test.jpg  used on input line 457.
+(pdftex.def)             Requested size: 138.03676pt x 111.29665pt.
+<dataset1b_k10_knn_density.jpg, id=251, 444.4605pt x 304.7385pt>
+File: dataset1b_k10_knn_density.jpg Graphic file (type jpg)
+<use dataset1b_k10_knn_density.jpg>
+Package pdftex.def Info: dataset1b_k10_knn_density.jpg  used on input line 467.
+
+(pdftex.def)             Requested size: 155.56349pt x 106.66006pt.
+ [11 <./dataset1b_knnde_hm_train.JPG> <./dataset1b_knnde_hm_test.JPG> <./datase
+t1b_k10_knn_density.JPG>]
+<dataset2a_gmm_full_hm_train.jpg, id=256, 228.25275pt x 182.48175pt>
+File: dataset2a_gmm_full_hm_train.jpg Graphic file (type jpg)
+<use dataset2a_gmm_full_hm_train.jpg>
+Package pdftex.def Info: dataset2a_gmm_full_hm_train.jpg  used on input line 51
+2.
+(pdftex.def)             Requested size: 136.9527pt x 109.48988pt.
+<dataset2a_gmm_full_hm_test.jpg, id=257, 225.84375pt x 184.89075pt>
+File: dataset2a_gmm_full_hm_test.jpg Graphic file (type jpg)
+<use dataset2a_gmm_full_hm_test.jpg>
+Package pdftex.def Info: dataset2a_gmm_full_hm_test.jpg  used on input line 519
+.
+(pdftex.def)             Requested size: 135.50728pt x 110.93529pt.
+[12 <./dataset2a_gmm_full_hm_train.JPG> <./dataset2a_gmm_full_hm_test.JPG>]
+<dataset2a_gmm_diagonal_hm_train.jpg, id=267, 230.0595pt x 186.09525pt>
+File: dataset2a_gmm_diagonal_hm_train.jpg Graphic file (type jpg)
+<use dataset2a_gmm_diagonal_hm_train.jpg>
+Package pdftex.def Info: dataset2a_gmm_diagonal_hm_train.jpg  used on input lin
+e 555.
+(pdftex.def)             Requested size: 138.03676pt x 111.65799pt.
+<dataset2a_gmm_diagonal_hm_test.jpg, id=268, 228.25275pt x 187.29974pt>
+File: dataset2a_gmm_diagonal_hm_test.jpg Graphic file (type jpg)
+<use dataset2a_gmm_diagonal_hm_test.jpg>
+Package pdftex.def Info: dataset2a_gmm_diagonal_hm_test.jpg  used on input line
+ 562.
+(pdftex.def)             Requested size: 136.9527pt x 112.38069pt.
+
+[13 <./dataset2a_gmm_diagonal_hm_train.JPG> <./dataset2a_gmm_diagonal_hm_test.J
+PG>]
+<dataset2b_gmm_full_hm_train.jpg, id=274, 231.264pt x 188.50426pt>
+File: dataset2b_gmm_full_hm_train.jpg Graphic file (type jpg)
+<use dataset2b_gmm_full_hm_train.jpg>
+Package pdftex.def Info: dataset2b_gmm_full_hm_train.jpg  used on input line 61
+2.
+(pdftex.def)             Requested size: 138.75946pt x 113.10341pt.
+<dataset2b_gmm_full_hm_test.jpg, id=275, 229.45724pt x 187.29974pt>
+File: dataset2b_gmm_full_hm_test.jpg Graphic file (type jpg)
+<use dataset2b_gmm_full_hm_test.jpg>
+Package pdftex.def Info: dataset2b_gmm_full_hm_test.jpg  used on input line 619
+.
+(pdftex.def)             Requested size: 137.67538pt x 112.38069pt.
+ [14 <./dataset2b_gmm_full_hm_train.JPG> <./dataset2b_gmm_full_hm_test.JPG>]
+<dataset2b_gmm_diagonal_hm_train.jpg, id=285, 231.264pt x 187.29974pt>
+File: dataset2b_gmm_diagonal_hm_train.jpg Graphic file (type jpg)
+<use dataset2b_gmm_diagonal_hm_train.jpg>
+Package pdftex.def Info: dataset2b_gmm_diagonal_hm_train.jpg  used on input lin
+e 655.
+(pdftex.def)             Requested size: 138.75946pt x 112.38069pt.
+<dataset2b_gmm_diagonal_hm_test.jpg, id=286, 231.264pt x 188.50426pt>
+File: dataset2b_gmm_diagonal_hm_test.jpg Graphic file (type jpg)
+<use dataset2b_gmm_diagonal_hm_test.jpg>
+Package pdftex.def Info: dataset2b_gmm_diagonal_hm_test.jpg  used on input line
+ 662.
+(pdftex.def)             Requested size: 138.75946pt x 113.10341pt.
+ [15 <./dataset2b_gmm_diagonal_hm_train.JPG> <./dataset2b_gmm_diagonal_hm_test.
+JPG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 672.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 672.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 672.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 672.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B24DB495C445A3AB23E12DDA66624CE6;1512.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 672.
+ ) 
+Here is how much of TeX's memory you used:
+ 17839 strings out of 480880
+ 343487 string characters out of 5911595
+ 586635 words of memory out of 5000000
+ 33008 multiletter control sequences out of 15000+600000
+ 541157 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,10n,60p,406b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on main.pdf (15 pages, 1206672 bytes).
+PDF statistics:
+ 341 PDF objects out of 1000 (max. 8388607)
+ 275 compressed objects within 3 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
+

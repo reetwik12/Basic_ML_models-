@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Dataset 1a}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}K-nearest neighbours classifier}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Naive bayes Classifier, covariance matrix for all the classes is $\sigma ^2I$}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Naive bayes Classifier, covariance matrix for all the classes is $C$}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Naive bayes Classifier, covariance matrix for all the classes is different}{7}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Dataset 1b}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}K-nearest neighbours classifier}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Bayes classifier with GMM, using full covariance matrices}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Bayes classifier with GMM, using diagonal covariance matrices}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Bayes classifier with K-nearest neighbours method for estimation of class-conditional probability density function}{11}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Dataset 2a}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Bayes classifier with GMM, using full covariance matrices}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Bayes classifier with GMM, using diagonal covariance matrices}{13}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Dataset 2b}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Bayes classifier with GMM, using full covariance matrices}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Bayes classifier with GMM, using diagonal covariance matrices}{15}{subsection.4.2}%

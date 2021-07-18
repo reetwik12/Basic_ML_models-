@@ -1,0 +1,8 @@
+\contentsline {table}{\numberline {1.1.1}{\ignorespaces Classification accuracy using perceptron on Dataset 1a\relax }}{4}{table.caption.4}%
+\contentsline {table}{\numberline {1.2.1}{\ignorespaces Classification accuracy using MLFFNN on Dataset 1a\relax }}{7}{table.caption.12}%
+\contentsline {table}{\numberline {1.3.1}{\ignorespaces Classification accuracy using linear SVM on Dataset 1a\relax }}{8}{table.caption.15}%
+\contentsline {table}{\numberline {2.1.1}{\ignorespaces Classification accuracy of MLFFNN with 2 hidden layer on Dataset 1b\relax }}{11}{table.caption.23}%
+\contentsline {table}{\numberline {2.2.1}{\ignorespaces Classification accuracy of polynomial SVM classifier on Dataset 1b\relax }}{17}{table.caption.31}%
+\contentsline {table}{\numberline {2.3.1}{\ignorespaces Classification accuracy of Gaussian SVM classifier on Dataset 1b\relax }}{19}{table.caption.36}%
+\contentsline {table}{\numberline {3.1.1}{\ignorespaces Classification accuracy of MLFFNN with 2 hidden layers on Dataset 2\relax }}{21}{table.caption.41}%
+\contentsline {table}{\numberline {3.2.1}{\ignorespaces Classification accuracy of Gaussian SVM classifier on Dataset 2\relax }}{22}{table.caption.43}%
