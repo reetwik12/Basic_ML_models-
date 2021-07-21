@@ -34,12 +34,22 @@
 \newpage 
 
 \section{Polynomial curve fitting for dataset}
-This is majorly used for funstion approximation or regression. We have an independent variable, say $x$ and a target variable or dependent variable, say $y$ and we need to approximate the underlying function $ y = f(x)$.\\
-We approximate the function $f(x) = w_{0}+w_{1}x_1 + w_2x_{2} ..... w_Mx_M$, here $M$ is the degree and ususally a higher $M$ would help us getting a better approximation of the function.\\
+This is majorly used for function approximation or regression. We have an independent variable, say $x$ and a target variable or dependent variable, say $y$ and we need to approximate the underlying function $ y = f(x)$.\\
 
+We approximate the function $f(x) = w_{0}+w_{1}x_1 + w_2x_{2} ..... w_Mx_M$, here $M$ is the degree and usually a higher $M$ would help us getting a better approximation of the function. We have some pairs of points $(x,y)$ available to us and we train our model using these points. Here training means coming up with the values of $w_i$ in $f(x)$ such that they are a good estimate of $y$.\\
+
+We measure this closeness by a method of calculating the Root mean squared errror or ERMS between $y$ and $f(x)$.
+
+$$ ERMS = { \left( \sum_{i} \frac{{(y_i-f(x_i))}^2}{N} \right) }^{1/2} $$
+
+The closer our predicted function is to the underlying function the smaller is this ERMS value for the a set of points.\\
+
+ 
 Dataset1 : function2.csv is the dataset used in this section for all the experiments.
 
 \subsection{Without Regularization}
+We vary the amount of data available to us for training and observe the model performance for training data (i.e. the data used to train our ML model), validation data (i.e. the data used to identify which hyperparameters are optimal for our model) and test data (i.e. the data used to check the error in our model for any new point other than training data).
+ 
 \subsubsection{Datapoints in training dataset - 10}
 Hyperparameters $M = \{2,3,6,9\}, \lambda = 0$
 \begin{table}[h!]
@@ -61,6 +71,8 @@ $9$ & $8.66*10^{-6}$ & 843.0139 & 1015.5930\\
 \caption{ERMS for dataset1, training size = 10, $\lambda = 0$}
 \end{center}
 \end{table}
+
+We observe that $M =3$ provides us with the least ERMS for test data and it is also evident from the scatter plot of datapoints used in training along with the predicted function that for $M =3$ the curve closely represents the distribution of points.\\
 
 \begin{figure}[h]
 \centering

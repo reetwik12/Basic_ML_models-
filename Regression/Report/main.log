@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.7)  20 JUL 2021 13:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.7)  21 JUL 2021 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -771,7 +771,22 @@ Package caption Info: End \AtBeginDocument code.
 \openout7 = `main.lof'.
 
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
@@ -779,53 +794,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--39
 File: dataset1_10_lambda0_m2funcplot.jpg Graphic file (type jpg)
 <use dataset1_10_lambda0_m2funcplot.jpg>
 Package pdftex.def Info: dataset1_10_lambda0_m2funcplot.jpg  used on input line
- 69.
+ 81.
 (pdftex.def)             Requested size: 198.13889pt x 128.57947pt.
 <dataset1_10_lambda0_m3funcplot.jpg, id=163, 280.6485pt x 183.68625pt>
 File: dataset1_10_lambda0_m3funcplot.jpg Graphic file (type jpg)
 <use dataset1_10_lambda0_m3funcplot.jpg>
 Package pdftex.def Info: dataset1_10_lambda0_m3funcplot.jpg  used on input line
- 76.
+ 88.
 (pdftex.def)             Requested size: 196.4526pt x 128.57947pt.
 <dataset1_10_lambda0_m6funcplot.jpg, id=164, 281.853pt x 184.89075pt>
 File: dataset1_10_lambda0_m6funcplot.jpg Graphic file (type jpg)
 <use dataset1_10_lambda0_m6funcplot.jpg>
 Package pdftex.def Info: dataset1_10_lambda0_m6funcplot.jpg  used on input line
- 83.
+ 95.
 (pdftex.def)             Requested size: 197.29575pt x 129.42262pt.
 <dataset1_10_lambda0_m9funcplot.jpg, id=165, 289.68225pt x 184.89075pt>
 File: dataset1_10_lambda0_m9funcplot.jpg Graphic file (type jpg)
 <use dataset1_10_lambda0_m9funcplot.jpg>
 Package pdftex.def Info: dataset1_10_lambda0_m9funcplot.jpg  used on input line
- 90.
+ 102.
 (pdftex.def)             Requested size: 202.77618pt x 129.42262pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4]
-<dataset1_200_lambda0_m2funcplot.jpg, id=174, 282.45525pt x 186.09525pt>
+<dataset1_200_lambda0_m2funcplot.jpg, id=175, 282.45525pt x 186.09525pt>
 File: dataset1_200_lambda0_m2funcplot.jpg Graphic file (type jpg)
 <use dataset1_200_lambda0_m2funcplot.jpg>
 Package pdftex.def Info: dataset1_200_lambda0_m2funcplot.jpg  used on input lin
-e 126.
+e 138.
 (pdftex.def)             Requested size: 197.71732pt x 130.26576pt.
-<dataset1_200_lambda0_m3funcplot.jpg, id=175, 280.04625pt x 184.2885pt>
+<dataset1_200_lambda0_m3funcplot.jpg, id=176, 280.04625pt x 184.2885pt>
 File: dataset1_200_lambda0_m3funcplot.jpg Graphic file (type jpg)
 <use dataset1_200_lambda0_m3funcplot.jpg>
 Package pdftex.def Info: dataset1_200_lambda0_m3funcplot.jpg  used on input lin
-e 133.
+e 145.
 (pdftex.def)             Requested size: 196.03102pt x 129.00105pt.
-<dataset1_200_lambda0_m6funcplot.jpg, id=176, 281.853pt x 184.89075pt>
+<dataset1_200_lambda0_m6funcplot.jpg, id=177, 281.853pt x 184.89075pt>
 File: dataset1_200_lambda0_m6funcplot.jpg Graphic file (type jpg)
 <use dataset1_200_lambda0_m6funcplot.jpg>
 Package pdftex.def Info: dataset1_200_lambda0_m6funcplot.jpg  used on input lin
-e 140.
+e 152.
 (pdftex.def)             Requested size: 197.29575pt x 129.42262pt.
-<dataset1_200_lambda0_m9funcplot.jpg, id=177, 280.6485pt x 183.084pt>
+<dataset1_200_lambda0_m9funcplot.jpg, id=178, 280.6485pt x 183.084pt>
 File: dataset1_200_lambda0_m9funcplot.jpg Graphic file (type jpg)
 <use dataset1_200_lambda0_m9funcplot.jpg>
 Package pdftex.def Info: dataset1_200_lambda0_m9funcplot.jpg  used on input lin
-e 147.
+e 159.
 (pdftex.def)             Requested size: 196.4526pt x 128.15791pt.
 
 
@@ -836,35 +851,35 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 158.
+(hyperref)                removing `math shift' on input line 170.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\lambda' on input line 158.
+(hyperref)                removing `\lambda' on input line 170.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 158.
+(hyperref)                removing `math shift' on input line 170.
 
-<dataset1_10_lambda1_m6funcplot.jpg, id=183, 281.25075pt x 183.68625pt>
+<dataset1_10_lambda1_m6funcplot.jpg, id=184, 281.25075pt x 183.68625pt>
 File: dataset1_10_lambda1_m6funcplot.jpg Graphic file (type jpg)
 <use dataset1_10_lambda1_m6funcplot.jpg>
 Package pdftex.def Info: dataset1_10_lambda1_m6funcplot.jpg  used on input line
- 182.
+ 194.
 (pdftex.def)             Requested size: 196.87416pt x 128.57947pt.
 
-Overfull \hbox (8.97502pt too wide) in paragraph at lines 182--183
+Overfull \hbox (8.97502pt too wide) in paragraph at lines 194--195
  [][] 
  []
 
-<dataset1_10_lambda1_m9funcplot.jpg, id=184, 287.27325pt x 186.09525pt>
+<dataset1_10_lambda1_m9funcplot.jpg, id=185, 287.27325pt x 186.09525pt>
 File: dataset1_10_lambda1_m9funcplot.jpg Graphic file (type jpg)
 <use dataset1_10_lambda1_m9funcplot.jpg>
 Package pdftex.def Info: dataset1_10_lambda1_m9funcplot.jpg  used on input line
- 189.
+ 201.
 (pdftex.def)             Requested size: 201.0899pt x 130.26576pt.
 
-Overfull \hbox (13.19077pt too wide) in paragraph at lines 189--190
+Overfull \hbox (13.19077pt too wide) in paragraph at lines 201--202
  [][] 
  []
 
@@ -874,23 +889,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [6 <./dataset1_200_lambda0_m2funcplot.JPG> <./dataset1_200_lambda0_m3funcplot.J
 PG> <./dataset1_200_lambda0_m6funcplot.JPG> <./dataset1_200_lambda0_m9funcplot.
 JPG>]
-<dataset2_50_lambda0_m2funcplot.jpg, id=189, 313.77225pt x 294.50024pt>
+<dataset2_50_lambda0_m2funcplot.jpg, id=190, 313.77225pt x 294.50024pt>
 File: dataset2_50_lambda0_m2funcplot.jpg Graphic file (type jpg)
 <use dataset2_50_lambda0_m2funcplot.jpg>
 Package pdftex.def Info: dataset2_50_lambda0_m2funcplot.jpg  used on input line
- 228.
+ 240.
 (pdftex.def)             Requested size: 156.88573pt x 147.24976pt.
-<dataset2_50_lambda0_m3funcplot.jpg, id=190, 314.3745pt x 293.898pt>
+<dataset2_50_lambda0_m3funcplot.jpg, id=191, 314.3745pt x 293.898pt>
 File: dataset2_50_lambda0_m3funcplot.jpg Graphic file (type jpg)
 <use dataset2_50_lambda0_m3funcplot.jpg>
 Package pdftex.def Info: dataset2_50_lambda0_m3funcplot.jpg  used on input line
- 235.
+ 247.
 (pdftex.def)             Requested size: 157.18686pt x 146.94862pt.
-<dataset2_50_lambda0_m6funcplot.jpg, id=191, 313.77225pt x 293.29575pt>
+<dataset2_50_lambda0_m6funcplot.jpg, id=192, 313.77225pt x 293.29575pt>
 File: dataset2_50_lambda0_m6funcplot.jpg Graphic file (type jpg)
 <use dataset2_50_lambda0_m6funcplot.jpg>
 Package pdftex.def Info: dataset2_50_lambda0_m6funcplot.jpg  used on input line
- 242.
+ 254.
 (pdftex.def)             Requested size: 156.88573pt x 146.6475pt.
 
 
@@ -898,23 +913,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./dataset1_10_lambda1_m6funcplot.JPG> <./dataset1_10_lambda1_m9funcplot.JPG
 >]
-<dataset2_200_lambda0_m2funcplot.jpg, id=197, 312.56775pt x 293.898pt>
+<dataset2_200_lambda0_m2funcplot.jpg, id=198, 312.56775pt x 293.898pt>
 File: dataset2_200_lambda0_m2funcplot.jpg Graphic file (type jpg)
 <use dataset2_200_lambda0_m2funcplot.jpg>
 Package pdftex.def Info: dataset2_200_lambda0_m2funcplot.jpg  used on input lin
-e 275.
+e 287.
 (pdftex.def)             Requested size: 156.28348pt x 146.94862pt.
-<dataset2_200_lambda0_m3funcplot.jpg, id=198, 310.761pt x 294.50024pt>
+<dataset2_200_lambda0_m3funcplot.jpg, id=199, 310.761pt x 294.50024pt>
 File: dataset2_200_lambda0_m3funcplot.jpg Graphic file (type jpg)
 <use dataset2_200_lambda0_m3funcplot.jpg>
 Package pdftex.def Info: dataset2_200_lambda0_m3funcplot.jpg  used on input lin
-e 282.
+e 294.
 (pdftex.def)             Requested size: 155.38011pt x 147.24976pt.
-<dataset2_200_lambda0_m6funcplot.jpg, id=199, 314.97675pt x 294.50024pt>
+<dataset2_200_lambda0_m6funcplot.jpg, id=200, 314.97675pt x 294.50024pt>
 File: dataset2_200_lambda0_m6funcplot.jpg Graphic file (type jpg)
 <use dataset2_200_lambda0_m6funcplot.jpg>
 Package pdftex.def Info: dataset2_200_lambda0_m6funcplot.jpg  used on input lin
-e 289.
+e 301.
 (pdftex.def)             Requested size: 157.48798pt x 147.24976pt.
 
 
@@ -922,23 +937,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [8 <./dataset2_50_lambda0_m2funcplot.JPG> <./dataset2_50_lambda0_m3funcplot.JPG
 > <./dataset2_50_lambda0_m6funcplot.JPG>]
-<dataset2_500_lambda0_m2funcplot.jpg, id=204, 313.17pt x 293.898pt>
+<dataset2_500_lambda0_m2funcplot.jpg, id=205, 313.17pt x 293.898pt>
 File: dataset2_500_lambda0_m2funcplot.jpg Graphic file (type jpg)
 <use dataset2_500_lambda0_m2funcplot.jpg>
 Package pdftex.def Info: dataset2_500_lambda0_m2funcplot.jpg  used on input lin
-e 322.
+e 334.
 (pdftex.def)             Requested size: 156.58461pt x 146.94862pt.
-<dataset2_500_lambda0_m3funcplot.jpg, id=205, 314.3745pt x 294.50024pt>
+<dataset2_500_lambda0_m3funcplot.jpg, id=206, 314.3745pt x 294.50024pt>
 File: dataset2_500_lambda0_m3funcplot.jpg Graphic file (type jpg)
 <use dataset2_500_lambda0_m3funcplot.jpg>
 Package pdftex.def Info: dataset2_500_lambda0_m3funcplot.jpg  used on input lin
-e 329.
+e 341.
 (pdftex.def)             Requested size: 157.18686pt x 147.24976pt.
-<dataset2_500_lambda0_m6funcplot.jpg, id=206, 314.3745pt x 295.1025pt>
+<dataset2_500_lambda0_m6funcplot.jpg, id=207, 314.3745pt x 295.1025pt>
 File: dataset2_500_lambda0_m6funcplot.jpg Graphic file (type jpg)
 <use dataset2_500_lambda0_m6funcplot.jpg>
 Package pdftex.def Info: dataset2_500_lambda0_m6funcplot.jpg  used on input lin
-e 336.
+e 348.
 (pdftex.def)             Requested size: 157.18686pt x 147.55087pt.
 
 
@@ -946,46 +961,46 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./dataset2_200_lambda0_m2funcplot.JPG> <./dataset2_200_lambda0_m3funcplot.J
 PG> <./dataset2_200_lambda0_m6funcplot.JPG>]
-<dataset2_50_lambda0_test.jpg, id=211, 279.444pt x 183.68625pt>
+<dataset2_50_lambda0_test.jpg, id=212, 279.444pt x 183.68625pt>
 File: dataset2_50_lambda0_test.jpg Graphic file (type jpg)
 <use dataset2_50_lambda0_test.jpg>
-Package pdftex.def Info: dataset2_50_lambda0_test.jpg  used on input line 352.
+Package pdftex.def Info: dataset2_50_lambda0_test.jpg  used on input line 364.
 (pdftex.def)             Requested size: 139.72165pt x 91.84288pt.
-<dataset2_50_lambda0_train.jpg, id=212, 278.84175pt x 185.493pt>
+<dataset2_50_lambda0_train.jpg, id=213, 278.84175pt x 185.493pt>
 File: dataset2_50_lambda0_train.jpg Graphic file (type jpg)
 <use dataset2_50_lambda0_train.jpg>
-Package pdftex.def Info: dataset2_50_lambda0_train.jpg  used on input line 359.
+Package pdftex.def Info: dataset2_50_lambda0_train.jpg  used on input line 371.
 
 (pdftex.def)             Requested size: 139.42052pt x 92.74626pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<dataset2_200_lambda0_test.jpg, id=213, 275.8305pt x 185.493pt>
+<dataset2_200_lambda0_test.jpg, id=214, 275.8305pt x 185.493pt>
 File: dataset2_200_lambda0_test.jpg Graphic file (type jpg)
 <use dataset2_200_lambda0_test.jpg>
-Package pdftex.def Info: dataset2_200_lambda0_test.jpg  used on input line 372.
+Package pdftex.def Info: dataset2_200_lambda0_test.jpg  used on input line 384.
 
 (pdftex.def)             Requested size: 137.9149pt x 92.74626pt.
-<dataset2_200_lambda0_train.jpg, id=214, 281.25075pt x 185.493pt>
+<dataset2_200_lambda0_train.jpg, id=215, 281.25075pt x 185.493pt>
 File: dataset2_200_lambda0_train.jpg Graphic file (type jpg)
 <use dataset2_200_lambda0_train.jpg>
-Package pdftex.def Info: dataset2_200_lambda0_train.jpg  used on input line 379
+Package pdftex.def Info: dataset2_200_lambda0_train.jpg  used on input line 391
 .
 (pdftex.def)             Requested size: 140.62502pt x 92.74626pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<dataset2_500_lambda0_test.jpg, id=215, 280.04625pt x 181.8795pt>
+<dataset2_500_lambda0_test.jpg, id=216, 280.04625pt x 181.8795pt>
 File: dataset2_500_lambda0_test.jpg Graphic file (type jpg)
 <use dataset2_500_lambda0_test.jpg>
-Package pdftex.def Info: dataset2_500_lambda0_test.jpg  used on input line 392.
+Package pdftex.def Info: dataset2_500_lambda0_test.jpg  used on input line 404.
 
 (pdftex.def)             Requested size: 140.02277pt x 90.93951pt.
-<dataset2_500_lambda0_train.jpg, id=216, 280.6485pt x 184.2885pt>
+<dataset2_500_lambda0_train.jpg, id=217, 280.6485pt x 184.2885pt>
 File: dataset2_500_lambda0_train.jpg Graphic file (type jpg)
 <use dataset2_500_lambda0_train.jpg>
-Package pdftex.def Info: dataset2_500_lambda0_train.jpg  used on input line 399
+Package pdftex.def Info: dataset2_500_lambda0_train.jpg  used on input line 411
 .
 (pdftex.def)             Requested size: 140.3239pt x 92.14401pt.
 
@@ -993,15 +1008,15 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10 <./dataset2_500_lambda0_m2funcplot.JPG> <./dataset2_500_lambda0_m3funcplot.
 JPG> <./dataset2_500_lambda0_m6funcplot.JPG>]
-<dataset2_k8_lambda0_test.jpg, id=221, 280.04625pt x 183.68625pt>
+<dataset2_k8_lambda0_test.jpg, id=222, 280.04625pt x 183.68625pt>
 File: dataset2_k8_lambda0_test.jpg Graphic file (type jpg)
 <use dataset2_k8_lambda0_test.jpg>
-Package pdftex.def Info: dataset2_k8_lambda0_test.jpg  used on input line 437.
+Package pdftex.def Info: dataset2_k8_lambda0_test.jpg  used on input line 449.
 (pdftex.def)             Requested size: 196.03102pt x 128.57947pt.
-<dataset2_k8_lambda0_train.jpg, id=222, 279.444pt x 183.68625pt>
+<dataset2_k8_lambda0_train.jpg, id=223, 279.444pt x 183.68625pt>
 File: dataset2_k8_lambda0_train.jpg Graphic file (type jpg)
 <use dataset2_k8_lambda0_train.jpg>
-Package pdftex.def Info: dataset2_k8_lambda0_train.jpg  used on input line 443.
+Package pdftex.def Info: dataset2_k8_lambda0_train.jpg  used on input line 455.
 
 (pdftex.def)             Requested size: 195.60947pt x 128.57947pt.
 
@@ -1010,33 +1025,33 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [11 <./dataset2_50_lambda0_test.JPG> <./dataset2_50_lambda0_train.JPG> <./datas
 et2_200_lambda0_test.JPG> <./dataset2_200_lambda0_train.JPG>]
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
 
  []
 
-<dataset3_k10_lambda0_test1.jpg, id=227, 472.01344pt x 320.69812pt>
+<dataset3_k10_lambda0_test1.jpg, id=228, 472.01344pt x 320.69812pt>
 File: dataset3_k10_lambda0_test1.jpg Graphic file (type jpg)
 <use dataset3_k10_lambda0_test1.jpg>
-Package pdftex.def Info: dataset3_k10_lambda0_test1.jpg  used on input line 484
+Package pdftex.def Info: dataset3_k10_lambda0_test1.jpg  used on input line 496
 .
 (pdftex.def)             Requested size: 165.20717pt x 112.24602pt.
-<dataset3_k10_lambda0_test2.jpg, id=228, 486.31688pt x 321.45094pt>
+<dataset3_k10_lambda0_test2.jpg, id=229, 486.31688pt x 321.45094pt>
 File: dataset3_k10_lambda0_test2.jpg Graphic file (type jpg)
 <use dataset3_k10_lambda0_test2.jpg>
-Package pdftex.def Info: dataset3_k10_lambda0_test2.jpg  used on input line 491
+Package pdftex.def Info: dataset3_k10_lambda0_test2.jpg  used on input line 503
 .
 (pdftex.def)             Requested size: 170.21346pt x 112.5095pt.
-<dataset3_k10_lambda0_train1.jpg, id=229, 474.27188pt x 326.72063pt>
+<dataset3_k10_lambda0_train1.jpg, id=230, 474.27188pt x 326.72063pt>
 File: dataset3_k10_lambda0_train1.jpg Graphic file (type jpg)
 <use dataset3_k10_lambda0_train1.jpg>
-Package pdftex.def Info: dataset3_k10_lambda0_train1.jpg  used on input line 49
-8.
+Package pdftex.def Info: dataset3_k10_lambda0_train1.jpg  used on input line 51
+0.
 (pdftex.def)             Requested size: 165.99763pt x 114.35393pt.
-<dataset3_k10_lambda0_train2.jpg, id=230, 472.76625pt x 325.215pt>
+<dataset3_k10_lambda0_train2.jpg, id=231, 472.76625pt x 325.215pt>
 File: dataset3_k10_lambda0_train2.jpg Graphic file (type jpg)
 <use dataset3_k10_lambda0_train2.jpg>
-Package pdftex.def Info: dataset3_k10_lambda0_train2.jpg  used on input line 50
-5.
+Package pdftex.def Info: dataset3_k10_lambda0_train2.jpg  used on input line 51
+7.
 (pdftex.def)             Requested size: 165.47066pt x 113.82695pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1045,18 +1060,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 aset2_k8_lambda0_test.JPG> <./dataset2_k8_lambda0_train.JPG>] [13 <./dataset3_k
 10_lambda0_test1.JPG> <./dataset3_k10_lambda0_test2.JPG> <./dataset3_k10_lambda
 0_train1.JPG> <./dataset3_k10_lambda0_train2.JPG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 515.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 515.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 527.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 527.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 515.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 515.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 527.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 527.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 749FB40FAA73DEED25BF0D8FFDE0FD75;1640.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 515.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 527.
  ) 
 Here is how much of TeX's memory you used:
  17851 strings out of 480880
@@ -1068,19 +1083,20 @@ Here is how much of TeX's memory you used:
  60i,11n,60p,406b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.p
 fb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8
-.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
-.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8
-.pfb>
-Output written on main.pdf (13 pages, 930513 bytes).
+pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><d:/Softwares/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+8.pfb>
+Output written on main.pdf (13 pages, 941246 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
- 230 compressed objects within 3 object streams
+ 293 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
  55 named destinations out of 1000 (max. 500000)
  320 words of extra memory for PDF output out of 10000 (max. 10000000)
 
